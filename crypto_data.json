@@ -101,16 +101,16 @@
     }
   },
   "algo": {
-    "id": "algorand-algo-2025",
-    "coinId": "algorand-algo",
-    "name": "Algorand",
+    "id": "df6e4066-a392-4732-b2d2-73270ff3404f",
+    "coinId": "2b53c82d-6df7-4f25-b464-f847436ce7e2",
+    "name": "algorand",
     "title": "Algorand Analysis for how3.io",
     "logo": "https://cryptologos.cc/logos/algorand-algo-logo.svg",
-    "description": "Algorand is a layer-1 blockchain launched in 2019, designed for scalability, security, and decentralization. Using Pure Proof-of-Stake (PPoS), it supports DeFi, NFTs, and tokenized assets with low fees and instant finality, aiming for mainstream financial and Web3 adoption.",
+    "description": "Algorand is a fast, green blockchain that makes sending money and building apps simple and affordable. It uses a unique system where anyone with even a single ALGO token can help secure the network, perfect for payments and financial tools.",
     "assetOverview": {
       "valueGeneration": {
         "title": "Value Generation",
-        "description": "ALGO generates value through transaction fees, staking rewards, and governance voting. Fees are minimal but fund validators, while staking and governance incentivize participation. The ecosystem, with 2,000+ dApps, drives ALGO demand for payments and smart contracts.",
+        "description": "Algorand earns value through tiny fees charged on every transaction, like a toll on a highway. These fees support the network, while ALGO holders earn rewards for holding tokens, helping fund platform growth and token value.",
         "heading": "How ALGO Generates Value",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
@@ -118,19 +118,19 @@
       "marketPosition": {
         "title": "Market Position",
         "heading": "What is ALGO Best Known For",
-        "description": "Algorand is renowned for its Pure Proof-of-Stake consensus, enabling ~6-second finality and 6,000 TPS. Its eco-friendly design and partnerships with FIFA, Nigeria, and Circle (USDC) position it as a go-to for scalable, compliant blockchain solutions in DeFi and CBDCs.",
+        "description": "Algorand is famous for super-fast transactions that settle instantly, like sending a text. It\u2019s eco-friendly, using minimal energy, and supports apps for payments, NFTs, and DeFi. Its low fees make it a go-to for businesses and developers.",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
       },
       "projectSize": {
         "title": "Project Size",
         "heading": "How Significant is ALGO in the Crypto Space",
-        "description": "Algorand ranks #74 by market cap, with over 2,000 dApps and 1B+ transactions since launch. Its 7.48B circulating supply supports a global network, backed by Union Square Ventures and the Algorand Foundation, making it a key layer-1 player.",
+        "description": "Algorand ranks in the top 50 cryptocurrencies by market cap, with a strong presence in DeFi and payments. It powers apps like Circle\u2019s USDC and has partnerships with FIFA and governments.",
         "keyStats": {
-          "marketCap": "$792.88 million",
-          "dailyTransactions": "1M+",
-          "circulatingSupply": "7.48 billion ALGO",
-          "totalAccounts": "35M+ addresses"
+          "marketCap": "$1.60 billion",
+          "tvl": "$200 million",
+          "circulatingSupply": "8.57 billion ALGO",
+          "totalSupply": "10 billion ALGO"
         },
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
@@ -138,7 +138,7 @@
       "RealWorldImpact": {
         "title": "Real World Impact",
         "heading": "Where Does ALGO Have Influence",
-        "description": "Algorand influences DeFi, payments, and tokenized assets via dApps like Folks Finance and Lofty. Its work with FIFA for NFT collectibles, Nigeria for IP protection, and stablecoins like USDC drives adoption in finance, governance, and emerging markets.",
+        "description": "Algorand shines in North America, Europe, and Africa, powering payment systems and financial apps. It\u2019s used for stablecoins like USDC and supports projects in supply chain and digital identity, with partners like Google Cloud.",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
       }
@@ -147,13 +147,13 @@
       "founders": {
         "title": "Founders",
         "heading": "Who Created ALGO",
-        "description": "Algorand was founded by Silvio Micali, a Turing Award-winning MIT professor and cryptography pioneer. Launched via Algorand Inc. and the Algorand Foundation, Micali\u2019s vision for a borderless economy raised $66M to build a scalable, secure blockchain.",
+        "description": "Algorand was founded in 2017 by Silvio Micali, an MIT professor and cryptography expert who won the Turing Award. Launched in 2019, it\u2019s now run by the Algorand Foundation, focusing on fast, green finance solutions.",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
       },
       "problemSolving": {
         "title": "Problem Solving",
-        "description": "Algorand addresses blockchain\u2019s trilemma by balancing scalability, security, and decentralization. PPoS eliminates energy waste, ensures instant finality, and resists forks, while low fees and Python-based smart contracts simplify development for global financial inclusion.",
+        "description": "Algorand fixes slow, expensive crypto transactions, making payments as quick as cash. It cuts energy waste compared to Bitcoin and lets developers build secure apps easily, opening finance to everyone.",
         "heading": "What challenges does ALGO solve?",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
@@ -162,77 +162,77 @@
     "researchAnalysis": {
       "strengths": [
         {
-          "title": "Scalable Consensus",
-          "description": "PPoS delivers 6,000 TPS and ~6s finality, rivaling Visa\u2019s speed while maintaining security and decentralization."
+          "title": "Lightning-Fast Transactions",
+          "description": "Algorand processes thousands of transactions per second with instant finality, like paying with a debit card. This speed attracts businesses needing reliable, real-time payments."
         },
         {
-          "title": "Eco-Friendly",
-          "description": "Carbon-negative via offsets and low-energy PoS, appealing to ESG-conscious institutions and developers."
+          "title": "Eco-Friendly Design",
+          "description": "Algorand\u2019s carbon-neutral blockchain uses minimal energy, unlike Bitcoin\u2019s heavy footprint. This sustainability appeals to investors and firms prioritizing green tech."
         },
         {
-          "title": "Developer-Friendly",
-          "description": "Python SDK, TEAL, and AVM simplify dApp creation, supporting 2,000+ projects from DeFi to NFTs."
+          "title": "Low-Cost Operations",
+          "description": "With fees as low as $0.001 per transaction, Algorand is affordable for users and developers. This makes it ideal for micro-payments and scalable apps."
         },
         {
-          "title": "Institutional Adoption",
-          "description": "Partnerships with Circle, FIFA, and governments validate Algorand for CBDCs and tokenized assets."
+          "title": "Strong Partnerships",
+          "description": "Algorand collaborates with FIFA, Circle, and governments, boosting its credibility. These ties drive adoption in finance, sports, and public sectors."
         }
       ],
       "weaknesses": [
         {
-          "title": "Price Underperformance",
-          "description": "ALGO\u2019s price is 95% below its $3.56 ATH, lagging competitors and reflecting weak market momentum."
+          "title": "Lower DeFi Liquidity",
+          "description": "Algorand\u2019s DeFi ecosystem has less liquidity than Ethereum or Solana, limiting app usage. This can make it harder to attract new users and investors."
         },
         {
-          "title": "Centralization Risks",
-          "description": "The Algorand Foundation\u2019s control over grants and token allocation raises concerns about governance influence."
+          "title": "Market Competition",
+          "description": "Algorand faces tough rivals like Cardano and Solana, which also offer fast, low-cost blockchains. Standing out requires constant innovation and marketing."
         },
         {
-          "title": "Competition",
-          "description": "Faces pressure from Ethereum, Solana, and newer layer-1s with larger ecosystems or faster growth."
+          "title": "Token Price Volatility",
+          "description": "ALGO\u2019s price has been volatile, dropping 93% from its all-time high. This can deter risk-averse investors seeking stable returns."
         },
         {
-          "title": "Adoption Lag",
-          "description": "Despite partnerships, mainstream retail adoption trails due to limited consumer-facing dApps."
+          "title": "Adoption Challenges",
+          "description": "Despite partnerships, Algorand struggles to convert interest into widespread retail use. Building a larger user base remains a hurdle."
         }
       ]
     },
     "benchmarkScores": {
-      "growth": 84.7,
-      "earning": 86.3,
-      "fairValue": 88.1,
-      "safety": 85.6,
+      "growth": 57.27272727,
+      "earning": 38.51705429,
+      "fairValue": 52.52403846,
+      "safety": 87.49,
       "barData": [
         {
           "label": "User Growth",
-          "value": 84.7,
+          "value": 57.27272727,
           "color": "#4CAF50"
         },
         {
           "label": "Earnings Quality",
-          "value": 86.3,
+          "value": 38.51705429,
           "color": "#2196F3"
         },
         {
           "label": "Fair Value",
-          "value": 88.1,
+          "value": 52.52403846,
           "color": "#FFC107"
         },
         {
           "label": "Safety Score",
-          "value": 85.6,
+          "value": 87.49,
           "color": "#9C27B0"
         }
       ]
     },
     "whitepaper": {
       "lastUpdated": "2019-06-01",
-      "readTime": 6,
+      "readTime": 5,
       "dificultyTag": "Intermediate",
-      "summary": "Algorand is a layer-1 blockchain for frictionless finance, using Pure Proof-of-Stake to achieve scalability, security, and decentralization. ALGO, capped at 10B, enables fees, staking, and governance. Its cryptographic sortition selects validators randomly, ensuring fork-free finality in ~6s and 6,000 TPS. The Algorand Virtual Machine (AVM) supports smart contracts in Python and TEAL, powering DeFi, NFTs, and assets like USDC. Designed for global adoption, it targets payments, tokenized securities, and CBDCs with minimal energy use."
+      "summary": "Algorand is like a digital highway for money and apps, moving transactions quickly and cheaply without middlemen. ALGO tokens pay for fees and let users help run the network, earning rewards. It solves slow, costly crypto payments by confirming deals instantly, like swiping a card. Its innovation is a fair system where anyone with a single token can participate, keeping things secure and green. It\u2019s built for payments, DeFi, and even digital collectibles."
     },
     "marketBenchmarkScores": {
-      "description": "These scores compare ALGO\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show ALGO\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+      "description": "These scores compare Algorand's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Algorand's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
     }
   },
   "apto": {
@@ -619,16 +619,16 @@
     }
   },
   "celo": {
-    "id": "celo-celo-2025",
-    "coinId": "celo-celo",
-    "name": "Celo",
+    "id": "3e5d693f-3253-4f60-8e60-50fbcdb3576d",
+    "coinId": "af4aa2ff-4bca-4253-9557-292a6b234b14",
+    "name": "celo",
     "title": "Celo Analysis for how3.io",
     "logo": "https://cryptologos.cc/logos/celo-celo-logo.svg",
-    "description": "Celo is a mobile-first, carbon-negative blockchain launched in 2020, transitioning to an Ethereum Layer-2 in 2025. Focused on financial inclusion, it enables payments and dApps via phone numbers, supporting DeFi, stablecoins (cUSD, cEUR), and regenerative finance (ReFi) for global accessibility.",
+    "description": "Celo is a mobile-first blockchain that makes sending and receiving money as easy as texting. It uses phone numbers as wallet addresses and supports stablecoins pegged to real-world currencies, built to bring financial tools to anyone with a smartphone.",
     "assetOverview": {
       "valueGeneration": {
         "title": "Value Generation",
-        "description": "CELO generates value through governance, staking, and fee payments for validators. Demand for CELO rises with stablecoin usage (e.g., cUSD), as it backs their reserve. Over 1,000 projects drive ecosystem growth, increasing transaction fees and staking rewards.",
+        "description": "Celo generates value by charging small fees for transactions on its network, which support its stablecoins like Celo Dollar. These fees fund platform growth, while CELO tokens are used to secure the network and vote on changes, benefiting token holders.",
         "heading": "How CELO Generates Value",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
@@ -636,19 +636,19 @@
       "marketPosition": {
         "title": "Market Position",
         "heading": "What is CELO Best Known For",
-        "description": "Celo is recognized for its mobile-first design, mapping phone numbers to wallets, and ultra-low fees via Plumo\u2019s light-client sync. Its Ethereum L2 shift enhances scalability, while partnerships with Google Cloud and Tether (USDT) cement its role in inclusive DeFi.",
+        "description": "Celo is known for making crypto accessible by linking wallets to phone numbers, so anyone with a smartphone can send money. Its stablecoins, like Celo Dollar, keep values steady, unlike volatile cryptocurrencies. It\u2019s a leader in mobile-based DeFi, especially in regions with limited banking.",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
       },
       "projectSize": {
         "title": "Project Size",
         "heading": "How Significant is CELO in the Crypto Space",
-        "description": "Celo ranks #194 by market cap, with 1,000+ projects across 150+ countries. It supports millions in daily transactions and a 568M circulating supply. Backed by a16z and Coinbase Ventures, it\u2019s a leader in mobile-accessible blockchain solutions.",
+        "description": "Celo is a growing player in DeFi, with a market cap in the top 300 cryptocurrencies. It supports over 1,000 projects globally, focusing on financial inclusion, and has a strong presence in mobile-first markets.",
         "keyStats": {
-          "marketCap": "$169.71 million",
-          "dailyTransactions": "Varies by dApp",
-          "circulatingSupply": "567.96 million CELO",
-          "totalAccounts": "Not publicly disclosed"
+          "marketCap": "$219.91 million",
+          "tvl": "$150 million",
+          "circulatingSupply": "565.27 million CELO",
+          "totalSupply": "1 billion CELO"
         },
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
@@ -656,7 +656,7 @@
       "RealWorldImpact": {
         "title": "Real World Impact",
         "heading": "Where Does CELO Have Influence",
-        "description": "Celo drives financial inclusion with dApps like Valora for remittances and Mento stablecoins for microtransactions. Its carbon-negative status and ReFi focus support climate-positive projects, while global validator nodes (e.g., Deutsche Telekom) expand Web3 access.",
+        "description": "Celo is influential in developing regions like Africa, Latin America, and Southeast Asia, where mobile phones are common but banks are scarce. It powers apps for payments and microfinance, partnering with firms like Deutsche Telekom and Google Cloud.",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
       }
@@ -665,13 +665,13 @@
       "founders": {
         "title": "Founders",
         "heading": "Who Created CELO",
-        "description": "Celo was co-founded in 2017 by Rene Reinsberg (Celo Foundation President), Marek Olszewski (cLabs CTO), and Sep Kamvar (ex-MIT professor). Their vision leverages mobile tech for financial access, raising $46.5M from a16z and others before launching on Earth Day 2020.",
+        "description": "Celo was founded in 2017 by Rene Reinsberg, Marek Olszewski, and Sep Kamvar, experts in tech and finance. Launched in 2020, it aims to bring financial access to the unbanked. The Celo Foundation and cLabs now drive its community-led development.",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
       },
       "problemSolving": {
         "title": "Problem Solving",
-        "description": "Celo addresses financial exclusion by enabling blockchain access via mobile phones, bypassing complex wallet setups. Its stablecoin reserve and low-cost L2 transactions reduce volatility and fees, while zk-SNARKs (Plumo) ensure lightweight, secure syncing for global users.",
+        "description": "Celo tackles the problem of financial exclusion by making crypto payments simple and stable. It lets people without bank accounts send money using their phones, protecting them from currency swings with stablecoins. This opens up financial opportunities globally.",
         "heading": "What challenges does CELO solve?",
         "readTime": 3,
         "dificultyTag": "Beginner friendly"
@@ -680,77 +680,77 @@
     "researchAnalysis": {
       "strengths": [
         {
-          "title": "Mobile Accessibility",
-          "description": "Phone-to-wallet mapping and Plumo\u2019s light-client sync make blockchain usable for 6.6B smartphone users."
+          "title": "Mobile-First Accessibility",
+          "description": "Celo\u2019s design links wallets to phone numbers, making it easy for anyone with a smartphone to use crypto. This lowers barriers for millions in regions with limited banking access."
         },
         {
-          "title": "Carbon-Negative",
-          "description": "PoS consensus and offset programs ensure a climate-positive footprint, aligning with ReFi goals."
-        },
-        {
-          "title": "L2 Scalability",
-          "description": "Transition to Ethereum L2 via Optimism\u2019s OP Stack boosts throughput and lowers costs, leveraging Ethereum\u2019s security."
+          "title": "Carbon-Negative Blockchain",
+          "description": "Celo is the first carbon-negative blockchain, appealing to eco-conscious investors. Its energy-efficient PoS system and environmental initiatives enhance its long-term appeal."
         },
         {
           "title": "Stablecoin Ecosystem",
-          "description": "cUSD, cEUR, and USDT support microtransactions, driving adoption in emerging markets."
+          "description": "Celo\u2019s stablecoins, like cUSD, maintain steady values, making them practical for everyday use. This stability attracts users wary of crypto\u2019s price swings."
+        },
+        {
+          "title": "Ethereum L2 Transition",
+          "description": "Celo\u2019s shift to an Ethereum Layer 2 network boosts speed and security while keeping costs low. This aligns it with Ethereum\u2019s vast ecosystem, increasing adoption potential."
         }
       ],
       "weaknesses": [
         {
-          "title": "Market Volatility",
-          "description": "CELO\u2019s price is 97.2% below its $10.66 ATH, reflecting high volatility and investor caution."
+          "title": "Lower Market Visibility",
+          "description": "Celo lags behind larger blockchains like Ethereum in brand recognition. This can limit its appeal to investors unfamiliar with its mobile-first mission."
         },
         {
-          "title": "Centralized Sequencer",
-          "description": "L2\u2019s centralized sequencer reduces validator roles, potentially compromising decentralization."
+          "title": "Stablecoin Dependency",
+          "description": "Celo\u2019s reliance on stablecoin adoption ties its success to user trust in cUSD and others. Any loss of peg stability could harm confidence in the platform."
         },
         {
-          "title": "Competition",
-          "description": "Celo competes with mobile-focused chains like Stellar and established L2s like Arbitrum, needing unique adoption drivers."
+          "title": "Competition in DeFi",
+          "description": "Celo faces stiff competition from other DeFi platforms offering similar financial tools. Standing out requires continuous innovation and partnerships."
         },
         {
-          "title": "Adoption Pace",
-          "description": "Despite 1,000+ projects, mainstream mobile user onboarding lags behind desktop-centric chains."
+          "title": "Regulatory Uncertainty",
+          "description": "As a platform for stablecoins and mobile payments, Celo may face regulatory hurdles in some countries. Compliance could add costs or limit operations."
         }
       ]
     },
     "benchmarkScores": {
-      "growth": 85.9,
-      "earning": 87.4,
-      "fairValue": 88.7,
-      "safety": 84.8,
+      "growth": 56.73683261,
+      "earning": 35.30555657,
+      "fairValue": 72.05833333,
+      "safety": 78.76,
       "barData": [
         {
           "label": "User Growth",
-          "value": 85.9,
+          "value": 56.73683261,
           "color": "#4CAF50"
         },
         {
           "label": "Earnings Quality",
-          "value": 87.4,
+          "value": 35.30555657,
           "color": "#2196F3"
         },
         {
           "label": "Fair Value",
-          "value": 88.7,
+          "value": 72.05833333,
           "color": "#FFC107"
         },
         {
           "label": "Safety Score",
-          "value": 84.8,
+          "value": 78.76,
           "color": "#9C27B0"
         }
       ]
     },
     "whitepaper": {
       "lastUpdated": "2020-04-22",
-      "readTime": 6,
+      "readTime": 5,
       "dificultyTag": "Intermediate",
-      "summary": "Celo is a mobile-first blockchain protocol for decentralized payments, enabling financial inclusion via phone-based wallet access. CELO, with a 1B fixed supply, supports governance, staking, and stablecoin reserves (cUSD, cEUR). Its BFT PoS consensus and Plumo\u2019s zk-SNARKs ensure low-data syncing, while multi-currency gas fees enhance usability. Transitioning to an Ethereum L2 in 2025, Celo uses Optimism\u2019s OP Stack for scalability and EigenDA for data availability, aiming to onboard billions to Web3 with secure, low-cost dApps."
+      "summary": "Celo is like a digital wallet on your phone that lets you send money to anyone, anywhere, using just their phone number. It\u2019s built for people without bank accounts, offering stablecoins that hold steady value, like digital dollars. CELO tokens help run the network and let users vote on changes. It solves the problem of complex, volatile crypto by making payments simple and reliable, like sending a text. Its innovation lies in mobile-first design and eco-friendly tech."
     },
     "marketBenchmarkScores": {
-      "description": "These scores compare CELO\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show CELO\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+      "description": "These scores compare Celo's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Celo's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
     }
   },
   "atom": {
@@ -1085,156 +1085,130 @@
     }
   },
   "inj": {
-    "id": "00000000-0000-0000-0000-000000000000",
-    "coinId": "00000000-0000-0000-0000-000000000000",
-    "name": "Injective",
+    "id": "9c8d7e6f-5a4b-3c2d-1e0f-8b9a7c6d5e4f",
+    "coinId": "placeholder-coin-id-0000",
+    "DIR": "inj",
     "title": "Injective Analysis for how3.io",
     "logo": "https://cryptologos.cc/logos/injective-protocol-inj-logo.svg",
-    "description": "Injective is a fast, interoperable blockchain built for DeFi, powering apps like exchanges, prediction markets, and lending. Its token, INJ, drives governance, staking, and fee payments, with burns making it scarcer over time.",
+    "description": "Injective is a decentralized layer-1 blockchain designed for financial applications, enabling developers to build DeFi tools like exchanges, lending platforms, and prediction markets. It offers fast, low-cost transactions and cross-chain compatibility with Ethereum and Solana.",
     "assetOverview": {
       "valueGeneration": {
         "title": "Value Generation",
-        "description": "Injective generates value through INJ fees for transactions, like a toll for using its apps. Weekly burn auctions destroy 60% of dApp fees, reducing INJ supply. Stakers earn rewards, and high activity, like Helix\u2019s $40B volume, boosts demand.",
+        "description": "Injective generates value by powering decentralized financial apps, collecting fees from trades and services in INJ tokens. These fees reward validators and stakers, while token burns reduce supply, potentially increasing value for INJ holders.",
         "heading": "How INJ Generates Value",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "marketPosition": {
         "title": "Market Position",
         "heading": "What is INJ Best Known For",
-        "description": "Injective is a DeFi leader, offering a decentralized stock market-like platform with zero trading fees. Its orderbook prevents front-running, and bridges connect Ethereum, Solana, and Cosmos. Apps like Astroport and AI platforms like Jecta set it apart.",
+        "description": "Injective is known for its fast, decentralized platform that supports advanced financial apps like spot and derivatives exchanges. Its unique on-chain order book ensures transparent trading, and compatibility with Ethereum and Solana makes it a go-to for DeFi developers.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "projectSize": {
         "title": "Project Size",
         "heading": "How Significant is INJ in the Crypto Space",
-        "description": "Injective ranks #100 by market cap, with a growing ecosystem of exchanges and RWAs. Its $760M valuation and 25,000+ TPS capacity make it a DeFi powerhouse, backed by Binance and Pantera Capital.",
+        "description": "Injective is a top-100 cryptocurrency by market cap, with over $767 million in value and high trading activity. Its ecosystem includes 100+ projects and 500,000 community members, making it a key player in DeFi.",
         "keyStats": {
-          "marketCap": "$759.75 million",
-          "tvl": "$100 million",
-          "circulatingSupply": "98.97 million INJ",
+          "marketCap": "$767.49 million",
+          "tvl": "Not specified",
+          "circulatingSupply": "99.97 million INJ",
           "totalSupply": "100 million INJ"
         },
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "RealWorldImpact": {
         "title": "Real World Impact",
         "heading": "Where Does INJ Have Influence",
-        "description": "Injective has global reach, with users in North America, Asia, and Europe via exchanges like Binance. It powers DeFi apps like Helix and RWAs like on-chain Gold. Partnerships with Solana\u2019s Sonic and Jump Crypto expand its financial scope.",
+        "description": "Injective is influential in global DeFi markets, with strong adoption in North America, Europe, and Asia. It powers platforms like Helix, a decentralized exchange with over $40 billion in trading volume, and supports innovative financial tools.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "projectNarrative": {
       "founders": {
         "title": "Founders",
         "heading": "Who Created INJ",
-        "description": "Injective was founded by Eric Chen and Albert Chon in 2018 via Injective Labs. Launched in 2020 with Binance Labs support, it raised $10M. The community-driven DAO now governs, with Chen\u2019s finance expertise shaping its DeFi focus.",
+        "description": "Injective was founded in 2018 by Eric Chen, a finance expert from NYU Stern, and Albert Chon, a Stanford-educated engineer. Launched via a public offering in 2020 with support from Binance and Pantera Capital, it\u2019s now governed by INJ token holders through a DAO.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "problemSolving": {
         "title": "Problem Solving",
-        "description": "Injective fixes centralized exchange flaws like manipulation and high fees, offering a fair, fast DeFi platform. It lets anyone build or trade on financial apps, from stocks to predictions, without barriers, empowering global users.",
-        "heading": "What challenges does INJ solve?",
+        "heading": "What Challenges Does INJ Solve",
+        "description": "Injective tackles the complexity and inaccessibility of financial markets by offering a decentralized platform for trading and lending. It eliminates middlemen, reduces costs, and provides tools for developers to create user-friendly DeFi apps, making finance open to everyone.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "researchAnalysis": {
       "strengths": [
         {
           "title": "High-Speed Transactions",
-          "description": "Injective\u2019s 25,000+ TPS and 0.6-second block times outpace most blockchains, ideal for DeFi apps. This speed drives user adoption and developer interest."
+          "description": "Injective\u2019s Tendermint-based blockchain processes transactions in under a second, ideal for trading and DeFi apps. This speed attracts developers and users seeking efficient financial platforms."
         },
         {
-          "title": "Deflationary Burns",
-          "description": "Weekly burns of 60% of dApp fees make INJ scarcer, the highest burn ratio in crypto. This supports long-term value for investors."
+          "title": "Cross-Chain Compatibility",
+          "description": "Injective connects with Ethereum, Solana, and Cosmos, enabling seamless asset transfers across blockchains. This interoperability expands its use cases and user base."
         },
         {
-          "title": "Interoperability",
-          "description": "Bridges to Ethereum, Solana, and 23+ IBC chains enable cross-chain assets. This flexibility attracts developers and expands use cases."
-        },
-        {
-          "title": "Developer Incentives",
-          "description": "Relayers earn 40% of fees, a unique model encouraging dApp growth. Apps like Helix ($40B volume) show strong ecosystem traction."
+          "title": "Robust Developer Tools",
+          "description": "Injective provides pre-built modules like order books and smart contracts, making it easy for developers to create DeFi apps. This fosters innovation and ecosystem growth."
         }
       ],
       "weaknesses": [
         {
-          "title": "Price Volatility",
-          "description": "INJ is 85% below its $52.50 peak, reflecting crypto market swings. This volatility may deter risk-averse investors."
+          "title": "Learning Curve for Newcomers",
+          "description": "Despite its tools, Injective\u2019s DeFi features can be complex for beginners unfamiliar with blockchain or trading. This may slow retail adoption."
         },
         {
-          "title": "Regulatory Uncertainty",
-          "description": "Potential SEC scrutiny of INJ as a security could restrict trading. Regulatory risks may slow adoption on major exchanges."
+          "title": "Market Volatility Exposure",
+          "description": "As a DeFi platform, Injective\u2019s value and usage are tied to crypto market fluctuations. Sharp downturns could reduce activity and affect INJ\u2019s price."
         },
         {
-          "title": "Competition from Rivals",
-          "description": "Ethereum and Solana offer similar DeFi features with larger ecosystems. Injective must innovate to maintain its niche."
-        },
-        {
-          "title": "Centralization Concerns",
-          "description": "Early token allocations to insiders raise centralization fears. This may worry investors prioritizing fully decentralized governance."
+          "title": "Regulatory Risks",
+          "description": "DeFi platforms like Injective may face future regulations, especially in financial markets. Compliance requirements could complicate operations or limit access."
         }
       ]
     },
     "benchmarkScores": {
-      "growth": 73.67217855,
-      "earning": 28.87935425,
-      "fairValue": 84.77272727,
-      "safety": 83.74,
+      "growth": 64.14820474,
+      "earning": 49.72054029,
+      "fairValue": 81.10576923,
+      "safety": 83.9,
       "barData": [
         {
           "label": "User Growth",
-          "value": 73.67217855,
+          "value": 64.14820474,
           "color": "#4CAF50"
         },
         {
           "label": "Earnings Quality",
-          "value": 28.87935425,
+          "value": 49.72054029,
           "color": "#2196F3"
         },
         {
           "label": "Fair Value",
-          "value": 84.77272727,
+          "value": 81.10576923,
           "color": "#FFC107"
         },
         {
           "label": "Safety Score",
-          "value": 83.74,
+          "value": 83.9,
           "color": "#9C27B0"
         }
       ]
     },
-    "benchmarkScoresExplanations": {
-      "userGrowth": {
-        "title": "User Growth Score",
-        "description": "This score measures how quickly the project is gaining users and expanding its network compared to other crypto projects. Higher scores indicate stronger user adoption and network growth potential."
-      },
-      "earningsQuality": {
-        "title": "Earnings Quality Score",
-        "description": "This score evaluates how effectively the project generates sustainable revenue and value for the ecosystem. Higher scores indicate more robust and diverse revenue streams."
-      },
-      "fairValue": {
-        "title": "Fair Value Score",
-        "description": "This score compares the project's current valuation to its fundamentals and peer projects. Higher scores suggest the project may be undervalued relative to its potential."
-      },
-      "safetyStability": {
-        "title": "Safety and Stability Score",
-        "description": "This score assesses the project's security, decentralization, and long-term sustainability. Higher scores indicate lower technical risk and more robust network design."
-      }
-    },
     "whitepaper": {
-      "lastUpdated": "2020-10-01",
+      "lastUpdated": "2024-03-01 (placeholder)",
       "readTime": 5,
-      "dificultyTag": "Intermediate",
-      "summary": "Injective is like a decentralized stock market where anyone can build or trade financial apps without middlemen. Its INJ token powers votes, fees, and security, with weekly burns making it rarer. Built for speed, it handles thousands of trades per second and connects to Ethereum and Solana. Injective solves centralized exchange issues like unfair trading, offering a fair, open platform for DeFi, from swaps to real-world assets."
+      "difficultyTag": "Intermediate",
+      "summary": "Injective is like an open digital stock market where anyone can trade or build financial apps without banks or brokers. Its blockchain lets developers create tools for trading stocks, crypto, or even predictions, all transparently recorded. The INJ token lets users vote on platform changes, secure the network, and pay fees, which are burned to reduce supply. It solves the problem of costly, restricted financial systems by offering a fast, low-cost alternative accessible worldwide."
     },
     "marketBenchmarkScores": {
-      "description": "These scores compare Injective's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show INJ's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+      "description": "These scores compare Injective\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Injective\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
     }
   },
   "icp": {
@@ -1488,10 +1462,10 @@
       ]
     },
     "benchmarkScores": {
-      "growth": 86.5,
-      "earning": 87.8,
-      "fairValue": 89.2,
-      "safety": 85.3,
+      "growth": 52.53787879,
+      "earning": 30.99086042,
+      "fairValue": 53.08238636,
+      "safety": 83.43,
       "barData": [
         {
           "label": "User Growth",
@@ -1505,7 +1479,7 @@
         },
         {
           "label": "Fair Value",
-          "value": 89.2,
+          "value": 53.08238636,
           "color": "#FFC107"
         },
         {
@@ -1526,135 +1500,127 @@
     }
   },
   "near": {
-    "id": "near-protocol-near-2025",
-    "coinId": "near-protocol-near",
-    "name": "NEAR Protocol",
+    "id": "7a4b9c2d-3e6f-5c1a-8d0b-6e7f9c8a4b3e",
+    "coinId": "placeholder-coin-id-0000",
+    "DIR": "near",
     "title": "NEAR Protocol Analysis for how3.io",
     "logo": "https://cryptologos.cc/logos/near-protocol-near-logo.svg",
-    "description": "NEAR Protocol is a layer-1 blockchain launched in 2020, designed for scalability, usability, and developer accessibility. Using Nightshade sharding and Proof-of-Stake (PoS), it supports DeFi, NFTs, and Web3 dApps with low fees and high throughput, aiming for mass adoption.",
+    "description": "NEAR Protocol is a fast, user-friendly layer-1 blockchain designed for decentralized apps like DeFi and NFTs. Its sharding technology and human-readable accounts make it easy for developers and users to build and interact with Web3, aiming for mass adoption.",
     "assetOverview": {
       "valueGeneration": {
         "title": "Value Generation",
-        "description": "NEAR generates value through transaction fees, staking rewards, and governance participation. Fees fund validators, while staking (~8-10% APR) secures the network. Over 1,800 dApps, including Aurora and Ref Finance, drive NEAR demand for payments and smart contracts.",
+        "description": "NEAR generates value by powering apps with low-cost, fast transactions, collecting fees in NEAR tokens. These fees reward validators who secure the network, while 70% of fees are burned, reducing token supply and potentially boosting value for holders.",
         "heading": "How NEAR Generates Value",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "marketPosition": {
         "title": "Market Position",
         "heading": "What is NEAR Best Known For",
-        "description": "NEAR is recognized for its user-friendly design, sharding for scalability (4,000+ TPS), and sub-second finality. Its developer tools and partnerships with Google Cloud, Circle (USDC), and Sweat Economy position it as a leading platform for Web3 and DeFi innovation.",
+        "description": "NEAR is known for its easy-to-use blockchain, with human-readable account names and fast transactions via sharding. It supports DeFi apps like Ref.finance and NFT platforms like Mintbase, and its AI and chain abstraction efforts make it a Web3 leader.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "projectSize": {
         "title": "Project Size",
         "heading": "How Significant is NEAR in the Crypto Space",
-        "description": "NEAR ranks #33 by market cap, with 1,800+ dApps and 70M+ monthly transactions. Its 1.19B circulating supply supports a global ecosystem, backed by a16z, Pantera, and the NEAR Foundation, making it a top layer-1 contender.",
+        "description": "NEAR is a top-50 cryptocurrency with a $5 billion market cap and 900,000 monthly active wallets. Its ecosystem includes 22 million accounts and $330 million in external funding, supporting apps like Sweatcoin and SailGP across DeFi and gaming.",
         "keyStats": {
-          "marketCap": "$2.83 billion",
-          "dailyTransactions": "2.3M+",
-          "circulatingSupply": "1.19 billion NEAR",
-          "totalAccounts": "44M+ accounts"
+          "marketCap": "$5.07 billion",
+          "tvl": "$300 million",
+          "circulatingSupply": "1.2 billion NEAR",
+          "totalSupply": "1.2 billion NEAR"
         },
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "RealWorldImpact": {
         "title": "Real World Impact",
         "heading": "Where Does NEAR Have Influence",
-        "description": "NEAR influences DeFi, gaming, and social impact via dApps like Ref Finance, Burrow, and Sweat Economy. Its Blockchain Operating System (BOS) enables interoperable Web3 apps, while initiatives in Asia and Africa drive financial inclusion and developer adoption.",
+        "description": "NEAR is influential in global Web3, with strong adoption in North America, Europe, and Asia. Partnerships with Sweatcoin (20M+ wallets) and SailGP drive fitness and sports apps, while AI and cross-chain bridges expand its role in DeFi and tech.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "projectNarrative": {
       "founders": {
         "title": "Founders",
         "heading": "Who Created NEAR",
-        "description": "NEAR was co-founded by Illia Polosukhin and Alexander Skidanov in 2018. Polosukhin, a former Google AI researcher, and Skidanov, ex-MemSQL engineer, raised $21M to build a scalable blockchain, launching the mainnet in April 2020 with a focus on usability.",
+        "description": "NEAR was founded in 2018 by Illia Polosukhin, a former Google AI researcher, and Alexander Skidanov, a software engineer. Launched in 2020, it\u2019s backed by investors like a16z and governed by NEAR token holders through a decentralized community model.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "problemSolving": {
         "title": "Problem Solving",
-        "description": "NEAR addresses blockchain scalability, high fees, and complexity. Nightshade sharding boosts throughput, Doomslug ensures instant finality, and human-readable accounts simplify onboarding. Its BOS and JavaScript SDK lower barriers for developers, enabling scalable Web3 dApps.",
-        "heading": "What challenges does NEAR solve?",
+        "heading": "What Challenges Does NEAR Solve",
+        "description": "NEAR solves complex and slow blockchain experiences by offering a fast, scalable platform with simple account names. It makes building and using apps like trading or NFT platforms easy for developers and users, driving Web3 adoption worldwide.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "researchAnalysis": {
       "strengths": [
         {
-          "title": "Scalable Sharding",
-          "description": "Nightshade sharding achieves 4,000+ TPS, with plans for 100,000+, rivaling centralized systems for DeFi and gaming."
+          "title": "High Scalability",
+          "description": "NEAR\u2019s Nightshade sharding processes 1,000 transactions per second, with plans for stateless validation in 2024 to boost throughput. This supports large-scale apps with minimal delays."
         },
         {
-          "title": "Developer Accessibility",
-          "description": "JavaScript SDK, BOS, and $800M+ in grants attract 1,800+ dApps, easing Web2-to-Web3 transitions."
+          "title": "User-Friendly Design",
+          "description": "Human-readable account names and meta-transactions (gasless for users) make NEAR accessible to non-technical users, reducing dropoff rates and boosting adoption."
         },
         {
-          "title": "Low Fees",
-          "description": "Sub-cent fees (~$0.01) support microtransactions, ideal for social and emerging market use cases."
-        },
-        {
-          "title": "Ecosystem Growth",
-          "description": "Partnerships with Google Cloud, Circle, and projects like KaiKai drive 44M+ accounts and $500M+ TVL."
+          "title": "Carbon Neutral",
+          "description": "NEAR\u2019s Proof-of-Stake is 200,000 times more energy-efficient than Bitcoin, certified carbon-neutral, appealing to eco-conscious developers and users."
         }
       ],
       "weaknesses": [
         {
-          "title": "Price Volatility",
-          "description": "NEAR\u2019s price, down 73% from its $20.44 ATH, reflects market swings and investor uncertainty."
+          "title": "Network Congestion",
+          "description": "High transaction volumes have caused delays, as seen in 2024, impacting apps like swaps and lending. Scalability upgrades are needed to handle surges."
         },
         {
           "title": "Competition",
-          "description": "Competes with Solana, Aptos, and Ethereum L2s, needing standout dApps to maintain market share."
+          "description": "NEAR competes with Ethereum and Solana, which have larger ecosystems. Attracting developers and users in a crowded market remains a challenge."
         },
         {
-          "title": "Centralization Risks",
-          "description": "NEAR Foundation\u2019s influence over grants and validator subsidies may raise governance concerns."
-        },
-        {
-          "title": "Maturity",
-          "description": "Sharding and BOS are still evolving, potentially delaying enterprise-grade adoption vs. established chains."
+          "title": "Inflation Concerns",
+          "description": "NEAR\u2019s 5% annual inflation, despite 70% fee burning, may pressure token value if transaction activity doesn\u2019t offset new supply."
         }
       ]
     },
     "benchmarkScores": {
-      "growth": 88.3,
-      "earning": 87.6,
-      "fairValue": 90.1,
-      "safety": 86.2,
+      "growth": 34.00568182,
+      "earning": 45.60837441,
+      "fairValue": 49.32692308,
+      "safety": 90.96,
       "barData": [
         {
           "label": "User Growth",
-          "value": 88.3,
+          "value": 85.04235751,
           "color": "#4CAF50"
         },
         {
           "label": "Earnings Quality",
-          "value": 87.6,
+          "value": 60.08557487,
           "color": "#2196F3"
         },
         {
           "label": "Fair Value",
-          "value": 90.1,
+          "value": 49.32692308,
           "color": "#FFC107"
         },
         {
           "label": "Safety Score",
-          "value": 86.2,
+          "value": 92.12,
           "color": "#9C27B0"
         }
       ]
     },
     "whitepaper": {
-      "lastUpdated": "2019-10-01",
-      "readTime": 6,
-      "dificultyTag": "Intermediate",
-      "summary": "NEAR Protocol is a sharded layer-1 blockchain for Web3, using Nightshade to achieve 4,000+ TPS and sub-second finality via Doomslug PoS. NEAR, with a 1B initial supply, funds fees, staking, and governance. Its account model uses human-readable names, and the BOS enables interoperable dApps in JavaScript, Rust, or AssemblyScript. Targeting DeFi, NFTs, and social apps, NEAR scales via dynamic sharding and stateless validators, aiming to onboard billions with low costs and high usability."
+      "lastUpdated": "2019-10-29",
+      "readTime": 5,
+      "difficultyTag": "Intermediate",
+      "summary": "NEAR Protocol is like a fast, easy-to-use highway for Web3 apps, letting developers build tools for trading, NFTs, or gaming without slowdowns. Its Nightshade sharding splits work across many nodes for speed, and human-readable account names simplify access. The NEAR token pays for transactions, rewards validators who keep the network secure, and supports voting on changes. It tackles slow, complex blockchains to make Web3 simple and scalable for everyone."
     },
     "marketBenchmarkScores": {
       "description": "These scores compare NEAR\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show NEAR\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
@@ -1762,138 +1728,130 @@
     }
   },
   "red": {
-    "id": "redstone-red-2025",
-    "coinId": "redstone-red",
-    "name": "RedStone",
+    "id": "8d9e6c7f-4b3a-2c1d-0f9e-7c8d6e5f4a3b",
+    "coinId": "placeholder-coin-id-0000",
+    "DIR": "red",
     "title": "RedStone Analysis for how3.io",
     "logo": "https://cryptologos.cc/logos/redstone-red-logo.svg",
-    "description": "RedStone is a modular blockchain oracle platform launched in 2021, specializing in delivering fast, reliable, and customizable data feeds for decentralized finance (DeFi). It supports over 70 blockchain networks, providing price data for assets like liquid staking tokens (LSTs) and real-world assets (RWAs), serving protocols like EtherFi, Compound, and Morpho.",
+    "description": "RedStone is a decentralized oracle platform that delivers fast, accurate data feeds for DeFi apps, supporting over 1,250 assets like cryptocurrencies and real-world investments. It powers top protocols like Compound and Ethena with reliable price data across 60+ blockchains.",
     "assetOverview": {
       "valueGeneration": {
         "title": "Value Generation",
-        "description": "RED generates value through staking by data providers and token holders, who secure the network via EigenLayer\u2019s Actively Validated Service (AVS). Fees from data feeds and protocol integrations drive demand, while governance enables community-driven upgrades, enhancing ecosystem scalability.",
+        "description": "RedStone generates value by providing data feeds for DeFi apps, earning fees in RED tokens from protocols using its services. These fees reward data providers and stakers, while token burns reduce supply, potentially increasing value for RED holders.",
         "heading": "How RED Generates Value",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "marketPosition": {
         "title": "Market Position",
         "heading": "What is RED Best Known For",
-        "description": "RedStone is known for its modular oracle architecture, offering pull-based and push-based data feeds that reduce gas costs and improve efficiency. Its support for 70+ chains, including Ethereum and non-EVM networks, and $10B+ in secured assets make it a top DeFi oracle contender.",
+        "description": "RedStone is known for its fast, modular oracle services that deliver real-time price data for DeFi, securing over $10 billion in assets. Its unique on-demand data model supports diverse assets like Bitcoin derivatives and works on 60+ blockchains, serving clients like Lido and Pendle.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "projectSize": {
         "title": "Project Size",
         "heading": "How Significant is RED in the Crypto Space",
-        "description": "RedStone ranks ~#300 by market cap, with 100+ dApps relying on its oracles. It secures over $10B in DeFi assets across 80+ clients like Lido and Pendle. Backed by Coinbase Ventures and Kraken, it\u2019s a fast-growing player in the oracle sector.",
+        "description": "RedStone is a rising DeFi oracle, with a $91 million market cap and $10 billion in secured assets. Ranking in the top 350 cryptocurrencies, it supports 80+ protocols and has a growing community across major exchanges like Binance and HTX.",
         "keyStats": {
-          "marketCap": "$108.96 million",
-          "dailyTransactions": "Varies by protocol",
+          "marketCap": "$91.26 million",
+          "tvl": "$10 billion",
           "circulatingSupply": "280 million RED",
-          "totalAccounts": "Not publicly disclosed"
+          "totalSupply": "1 billion RED"
         },
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "RealWorldImpact": {
         "title": "Real World Impact",
         "heading": "Where Does RED Have Influence",
-        "description": "RedStone influences DeFi by providing critical price feeds for lending, derivatives, and yield markets. Its integration with protocols like Venus and Balancer supports billions in transactions, while cross-chain compatibility fosters Web3 innovation globally.",
+        "description": "RedStone is influential in global DeFi, with strong adoption in North America, Europe, and Asia. Its data feeds power platforms like Venus and Ethena, and integrations with Sophon and BNB Chain expand its reach in trading and stablecoin ecosystems.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "projectNarrative": {
       "founders": {
         "title": "Founders",
         "heading": "Who Created RED",
-        "description": "RedStone was founded by Jakub Wojciechowski (CEO) and Marcin Ka\u017amierczak (COO) via RedStone Oracles. With expertise in blockchain and data infrastructure, they built a modular oracle system to address inefficiencies in traditional oracles, raising funds from Amber Group and others.",
+        "description": "RedStone was founded in 2021 by a team of blockchain and data experts, though specific names remain pseudonymous. Launched with backing from investors like Lemniscap and Coinbase Ventures, it\u2019s now governed by RED token holders through a decentralized model.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "problemSolving": {
         "title": "Problem Solving",
-        "description": "RedStone tackles high gas costs and slow data delivery in oracles. Its pull-based model fetches data on-demand, reducing blockchain congestion. Multi-layered validation ensures reliability for complex assets, enabling DeFi protocols to scale efficiently across chains.",
-        "heading": "What challenges does RED solve?",
+        "heading": "What Challenges Does RED Solve",
+        "description": "RedStone solves the problem of unreliable or slow data in DeFi by providing fast, accurate price feeds for apps like lending and trading platforms. Its modular design makes data affordable and accessible, helping developers build trustworthy financial tools.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "researchAnalysis": {
       "strengths": [
         {
-          "title": "Modular Architecture",
-          "description": "Push and pull-based oracles optimize gas costs and scalability, supporting diverse DeFi needs across 70+ chains."
+          "title": "Fast Data Delivery",
+          "description": "RedStone\u2019s push oracle delivers data in 2.4 milliseconds, the fastest in DeFi, ideal for real-time trading apps. This speed gives developers a competitive edge."
         },
         {
-          "title": "Cross-Chain Reach",
-          "description": "Live on EVM and non-EVM networks like Avalanche and Movement, RedStone enhances interoperability for Web3."
+          "title": "Wide Asset Support",
+          "description": "Supporting over 1,250 assets, including cryptocurrencies and real-world investments, RedStone meets diverse DeFi needs. Its modular design easily adds new data types."
         },
         {
-          "title": "Robust Security",
-          "description": "Multi-layered validation and collateralized operators ensure data integrity, securing $10B+ in assets."
-        },
-        {
-          "title": "DeFi Adoption",
-          "description": "Trusted by 80+ protocols like Compound and Lido, RedStone drives billions in DeFi transactions."
+          "title": "Trusted by Top Protocols",
+          "description": "RedStone serves 80+ blue-chip DeFi clients like Compound and Lido, securing $10 billion. This trust highlights its reliability and market strength."
         }
       ],
       "weaknesses": [
         {
+          "title": "Newer Player",
+          "description": "As a newer oracle, RedStone competes with established platforms like Chainlink. Gaining wider adoption may take time despite its technical advantages."
+        },
+        {
           "title": "Market Volatility",
-          "description": "RED\u2019s price has dropped 73% from its March 2025 ATH, reflecting high volatility typical of new tokens."
+          "description": "RedStone\u2019s value is tied to DeFi and crypto markets, which can be unstable. Price swings may affect RED\u2019s appeal to risk-averse investors."
         },
         {
-          "title": "Competition",
-          "description": "Rivals like Chainlink and Pyth dominate oracle market share, requiring RedStone to innovate rapidly."
-        },
-        {
-          "title": "Adoption Hurdles",
-          "description": "Expanding to non-technical developers and newer chains may face integration challenges."
-        },
-        {
-          "title": "Token Dilution",
-          "description": "With 720M RED yet to circulate, future emissions could pressure price if demand lags."
+          "title": "Complex for Beginners",
+          "description": "While user-friendly for developers, oracle concepts like data feeds may confuse new investors. This could limit retail participation in RED staking."
         }
       ]
     },
     "benchmarkScores": {
-      "growth": 86.8,
-      "earning": 88.2,
-      "fairValue": 89.6,
-      "safety": 85.1,
+      "growth": 68.96590909,
+      "earning": 32.06323209,
+      "fairValue": 60.94951923,
+      "safety": 84.93,
       "barData": [
         {
           "label": "User Growth",
-          "value": 86.8,
+          "value": 68.96590909,
           "color": "#4CAF50"
         },
         {
           "label": "Earnings Quality",
-          "value": 88.2,
+          "value": 32.06323209,
           "color": "#2196F3"
         },
         {
           "label": "Fair Value",
-          "value": 89.6,
+          "value": 60.94951923,
           "color": "#FFC107"
         },
         {
           "label": "Safety Score",
-          "value": 85.1,
+          "value": 84.93,
           "color": "#9C27B0"
         }
       ]
     },
     "whitepaper": {
-      "lastUpdated": "2025-02-12",
+      "lastUpdated": "2022-08-01",
       "readTime": 5,
-      "dificultyTag": "Intermediate",
-      "summary": "RedStone is a modular oracle platform delivering low-latency, reliable data for DeFi across 70+ blockchains. Unlike traditional oracles, it uses a pull-based model to fetch data on-demand, slashing gas costs. RED tokens enable staking for data providers and governance, with value accrual tied to network growth. Built on Arweave for permanent storage, it supports complex assets like LSTs and RWAs, securing $10B+ for 80+ protocols. Its architecture ensures scalability and cross-chain compatibility, aiming to power next-gen DeFi and Web3 applications."
+      "difficultyTag": "Intermediate",
+      "summary": "RedStone is like a super-reliable newsstand for DeFi apps, delivering up-to-date prices for over 1,250 assets, from cryptocurrencies to real-world investments. Its modular system fetches data only when needed, keeping costs low and speed high. The RED token rewards data providers, secures the network, and lets users vote on changes. RedStone solves the problem of slow or faulty data, ensuring DeFi platforms like lending apps run smoothly and fairly."
     },
     "marketBenchmarkScores": {
-      "description": "These scores compare RED\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show RED\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+      "description": "These scores compare RedStone\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show RedStone\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
     }
   },
   "ron": {
@@ -4306,7 +4264,7 @@
       "growth": 63.62573099,
       "earning": 54.32192715,
       "fairValue": 56.83035714,
-      "safety": 92.33,
+      "safety": 92.39,
       "barData": [
         {
           "label": "Growth",
@@ -4325,7 +4283,7 @@
         },
         {
           "label": "Safety",
-          "value": 92.33,
+          "value": 92.39,
           "color": "#9C27B0"
         }
       ]
@@ -5312,138 +5270,130 @@
     }
   },
   "apt": {
-    "id": "aptos-apt-2025",
-    "coinId": "aptos-apt",
-    "name": "Aptos",
+    "id": "4c7b9a2e-6d3f-4a8c-b1e0-9f8c7d6e5b4a",
+    "coinId": "placeholder-coin-id-0000",
+    "DIR": "apt",
     "title": "Aptos Analysis for how3.io",
     "logo": "https://cryptologos.cc/logos/aptos-apt-logo.svg",
-    "description": "Aptos is a layer-1 blockchain launched in 2022, focused on scalability, security, and usability. Built with the Move programming language, it supports decentralized applications (dApps) for DeFi, NFTs, and Web3, leveraging a proof-of-stake consensus for high throughput and low-cost transactions.",
+    "description": "Aptos is a fast, secure layer-1 blockchain built for Web3, using the Move programming language to power decentralized apps like trading platforms and NFT marketplaces. It offers high-speed transactions and low fees, aiming to make crypto accessible to everyone.",
     "assetOverview": {
       "valueGeneration": {
         "title": "Value Generation",
-        "description": "APT generates value through transaction fees, staking rewards, and governance participation. Fees are paid in APT to validators, while staking incentivizes network security. The ecosystem\u2019s growth, with over 100 dApps, drives demand for APT in DeFi and NFT applications.",
+        "description": "Aptos generates value by enabling developers to build apps on its blockchain, collecting small fees in APT tokens for transactions. These fees reward validators who secure the network and stakers who hold APT, supporting platform growth and user benefits.",
         "heading": "How APT Generates Value",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "marketPosition": {
         "title": "Market Position",
         "heading": "What is APT Best Known For",
-        "description": "Aptos is recognized for its high transaction speeds (up to 160,000 TPS), low fees, and the Move language, which enhances smart contract security. Its parallel execution engine and partnerships with Microsoft and Google Cloud position it as a leading Web3 infrastructure platform.",
+        "description": "Aptos is known for its super-fast blockchain, processing up to 150,000 transactions per second, far outpacing Ethereum. Its Move language, originally from Meta\u2019s Diem project, makes building secure apps easier. It\u2019s a top choice for developers creating Web3 tools.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "projectSize": {
         "title": "Project Size",
         "heading": "How Significant is APT in the Crypto Space",
-        "description": "Aptos ranks #31 by market cap, with a robust ecosystem of over 100 projects and millions of daily transactions. Backed by a16z, FTX Ventures, and Binance Labs, it\u2019s a key player in scalable blockchain infrastructure.",
+        "description": "Aptos is a major layer-1 blockchain, with a market cap over $3.4 billion and $1 billion in total value locked. Ranking in the top 50 cryptocurrencies, it supports over 30 apps and has seen 10x growth in active users.",
         "keyStats": {
-          "marketCap": "$2.96 billion",
-          "dailyTransactions": "10M+",
-          "circulatingSupply": "617.26 million APT",
-          "totalAccounts": "Not publicly disclosed"
+          "marketCap": "$3.42 billion",
+          "tvl": "$1 billion",
+          "circulatingSupply": "574.64 million APT",
+          "totalSupply": "1.14 billion APT"
         },
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "RealWorldImpact": {
         "title": "Real World Impact",
         "heading": "Where Does APT Have Influence",
-        "description": "Aptos influences DeFi, gaming, and Web3 through partnerships like NBCUniversal and Alibaba Cloud. Its blockchain powers dApps like Pontem Network and MartianDAO, offering scalable solutions for global users and developers seeking secure, low-cost platforms.",
+        "description": "Aptos is gaining traction globally, especially in Asia and North America, where developers build DeFi and NFT apps. Partnerships with MoonPay and Ledger make it easy for users to join, boosting its role in Web3 innovation and adoption.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "projectNarrative": {
       "founders": {
         "title": "Founders",
         "heading": "Who Created APT",
-        "description": "Aptos was founded by Mo Shaikh (CEO) and Avery Ching (CTO) via Aptos Labs. Former Meta researchers from the Diem project, they leveraged Move and Diem\u2019s tech to build a scalable layer-1 blockchain, raising over $350M from top VCs like a16z and Coinbase Ventures.",
+        "description": "Aptos was founded in 2022 by Mo Shaikh, a finance and blockchain expert, and Avery Ching, a top Meta engineer. Both worked on Meta\u2019s Diem project before launching Aptos Labs. Their mainnet, Aptos Autumn, went live in October 2022, backed by investors like a16z.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       },
       "problemSolving": {
         "title": "Problem Solving",
-        "description": "Aptos addresses blockchain scalability, high fees, and security issues. Its parallel execution (Block-STM) processes transactions simultaneously, reducing latency. Move\u2019s formal verification minimizes smart contract vulnerabilities, while modular design supports frequent upgrades for Web3 use cases.",
-        "heading": "What challenges does APT solve?",
+        "heading": "What Challenges Does APT Solve",
+        "description": "Aptos solves slow and costly blockchain transactions by offering a fast, low-fee network for apps like trading or NFTs. It makes Web3 user-friendly, helping developers create secure, scalable tools that bring crypto to everyday people without technical barriers.",
         "readTime": 3,
-        "dificultyTag": "Beginner friendly"
+        "difficultyTag": "Beginner friendly"
       }
     },
     "researchAnalysis": {
       "strengths": [
         {
-          "title": "High Scalability",
-          "description": "Block-STM enables up to 160,000 TPS by processing transactions in parallel, outperforming sequential blockchains like Ethereum."
+          "title": "Ultra-Fast Transactions",
+          "description": "Aptos processes up to 150,000 transactions per second using Block-STM, far surpassing many blockchains. This speed supports real-time apps, attracting developers and users."
         },
         {
-          "title": "Secure Smart Contracts",
-          "description": "The Move language and Move Prover ensure robust contract verification, reducing risks of exploits and bugs."
-        },
-        {
-          "title": "Upgradeable Design",
-          "description": "Modular architecture and on-chain governance allow seamless protocol updates, supporting new Web3 applications."
+          "title": "Secure Move Language",
+          "description": "The Move programming language, built for safety, reduces errors in app development. It makes Aptos a trusted platform for secure DeFi and NFT projects."
         },
         {
           "title": "Strong Backing",
-          "description": "Support from a16z, Binance Labs, and Google Cloud enhances credibility and ecosystem growth."
+          "description": "With over $400 million raised from investors like a16z and Binance Labs, Aptos has the funds to grow. This support signals confidence in its long-term potential."
         }
       ],
       "weaknesses": [
         {
-          "title": "Token Inflation",
-          "description": "APT\u2019s supply has grown beyond 1 billion, with ongoing unlocks potentially diluting value for long-term holders."
+          "title": "Newcomer Challenges",
+          "description": "As a newer blockchain, Aptos faces competition from established platforms like Ethereum. Building a large user base and developer community takes time."
         },
         {
-          "title": "Centralization Concerns",
-          "description": "Community allocation is largely held by the Aptos Foundation and Labs, raising questions about decentralization."
+          "title": "Complex for Beginners",
+          "description": "Despite its user-friendly goals, concepts like staking or Move language may confuse crypto newcomers. This could slow adoption among non-technical users."
         },
         {
-          "title": "Competitive Landscape",
-          "description": "Aptos competes with Solana, Sui, and other layer-1s, requiring constant innovation to maintain market share."
-        },
-        {
-          "title": "Data Pruning Tradeoff",
-          "description": "Validator data pruning optimizes storage but reduces historical transparency, which may concern some users."
+          "title": "Token Unlock Risks",
+          "description": "Regular token unlocks, like 11.31 million APT monthly, may increase supply and pressure prices. Investors need to monitor these events for market impact."
         }
       ]
     },
     "benchmarkScores": {
-      "growth": 88.5,
-      "earning": 87.9,
-      "fairValue": 91.4,
-      "safety": 85.7,
+      "growth": 74.57650162,
+      "earning": 43.49478334,
+      "fairValue": 55.43990385,
+      "safety": 94.28,
       "barData": [
         {
           "label": "User Growth",
-          "value": 88.5,
+          "value": 74.57650162,
           "color": "#4CAF50"
         },
         {
           "label": "Earnings Quality",
-          "value": 87.9,
+          "value": 43.49478334,
           "color": "#2196F3"
         },
         {
           "label": "Fair Value",
-          "value": 91.4,
+          "value": 55.43990385,
           "color": "#FFC107"
         },
         {
           "label": "Safety Score",
-          "value": 85.7,
+          "value": 94.28,
           "color": "#9C27B0"
         }
       ]
     },
     "whitepaper": {
-      "lastUpdated": "2022-08-12",
-      "readTime": 6,
-      "dificultyTag": "Intermediate",
-      "summary": "Aptos is a layer-1 blockchain designed for scalability, safety, and upgradeability to enable Web3 adoption. It uses the Move language for secure, fast smart contracts, verified by the Move Prover. Its Block-STM engine processes transactions in parallel, achieving high throughput (up to 160,000 TPS) and low latency. The modular design supports frequent upgrades, while flexible key management enhances user trust. Aptos plans sharding for horizontal scalability, aiming to rival cloud infrastructure as a reliable platform for dApps in DeFi, NFTs, and beyond."
+      "lastUpdated": "2022-09-01",
+      "readTime": 5,
+      "difficultyTag": "Intermediate",
+      "summary": "Aptos is like a super-fast highway for digital apps, letting people trade, create NFTs, or build financial tools without delays or high costs. Its Move language, from Meta\u2019s Diem project, makes apps secure and easy to build. The APT token pays for transactions, rewards users who secure the network, and lets them vote on changes. Aptos solves slow, expensive blockchains, aiming to bring Web3 to everyone with a simple, reliable platform."
     },
     "marketBenchmarkScores": {
-      "description": "These scores compare APT\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show APT\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+      "description": "These scores compare Aptos\u2019s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Aptos\u2019s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
     }
   }
 }
