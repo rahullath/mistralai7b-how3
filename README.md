@@ -1,4 +1,4 @@
-# Cryptocurrency Project Content Generator
+# how3.io Project Content Generator
 
 A tool for generating structured content for cryptocurrency projects using the Gemini AI API. This script creates detailed, beginner-friendly project descriptions and analysis for how3.io.
 
@@ -45,7 +45,7 @@ This script takes a CSV of cryptocurrency projects, generates content for each p
 Run the script to generate content for all target cryptocurrency projects:
 
 ```
-python fixed_content_generator.py
+python complete_content_generator.py
 ```
 
 For faster testing with just a few projects, uncomment the line:
