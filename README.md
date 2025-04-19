@@ -64,7 +64,7 @@ The script generates:
 ## Project Structure
 
 ```
-├── fixed_content_generator.py  # Main script
+├── complete_content_generator.py  # Main script
 ├── .env                        # Environment variables (API key)
 ├── how3.io score sheet - Score Sheet (Master).csv  # Project data
 ├── cmcdata.json                # CoinMarketCap data
