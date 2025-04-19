@@ -1,6 +1,6 @@
 {
   "cvx": {
-    "id": "2a59bfea-3a8c-43d8-808b-216e8dadf8fa",
+    "id": "86ef836e-c128-440a-ac13-55f5ec8cf483",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "convex-finance",
     "title": "Convex Finance Analysis for how3.io",
@@ -28,8 +28,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$0.21 billion",
-          "tradingVolume": "$18.28 million (24h)",
+          "marketCap": "$0.22 billion",
+          "tradingVolume": "$13.17 million (24h)",
           "circulatingSupply": "96.54 million CVX",
           "totalSupply": "99.87 million CVX"
         }
@@ -101,7 +101,7 @@
     }
   },
   "algo": {
-    "id": "d5686d91-3708-4117-b99d-4dd5e28d9944",
+    "id": "b7c7f9d2-1df2-462c-b9ce-61c95702c6e8",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "algorand",
     "title": "Algorand Analysis for how3.io",
@@ -129,9 +129,9 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$1.63 billion",
-          "tradingVolume": "$67.84 million (24h)",
-          "circulatingSupply": "8573.67 million ALGO",
+          "marketCap": "$1.65 billion",
+          "tradingVolume": "$38.20 million (24h)",
+          "circulatingSupply": "8573.95 million ALGO",
           "totalSupply": "10000.00 million ALGO"
         }
       },
@@ -202,7 +202,7 @@
     }
   },
   "apt": {
-    "id": "6d8c8988-8a7d-4456-9eb3-8d8a96e2f09c",
+    "id": "87d4dc8b-dfbe-4b59-911d-a47ea944d81b",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "aptos",
     "title": "Aptos Analysis for how3.io",
@@ -230,10 +230,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$2.86 billion",
-          "tradingVolume": "$88.69 million (24h)",
-          "circulatingSupply": "617.83 million APT",
-          "totalSupply": "1148.54 million APT"
+          "marketCap": "$3.03 billion",
+          "tradingVolume": "$89.56 million (24h)",
+          "circulatingSupply": "618.13 million APT",
+          "totalSupply": "1148.84 million APT"
         }
       },
       "RealWorldImpact": {
@@ -303,7 +303,7 @@
     }
   },
   "avax": {
-    "id": "74e9b4c6-3d2f-4b10-b283-d3fc1e67b27a",
+    "id": "ddcea014-562f-4696-a68d-a978b67663f0",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "avalanche",
     "title": "Avalanche Analysis for how3.io",
@@ -331,10 +331,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$7.96 billion",
-          "tradingVolume": "$181.30 million (24h)",
-          "circulatingSupply": "416.04 million AVAX",
-          "totalSupply": "452.71 million AVAX"
+          "marketCap": "$8.33 billion",
+          "tradingVolume": "$155.85 million (24h)",
+          "circulatingSupply": "416.05 million AVAX",
+          "totalSupply": "452.72 million AVAX"
         }
       },
       "RealWorldImpact": {
@@ -404,7 +404,7 @@
     }
   },
   "bnb": {
-    "id": "5ca71761-bec2-4922-afea-f096ea22d2b0",
+    "id": "d0b073ef-fabb-4072-b933-9334be10198d",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "bnb-chain",
     "title": "BNB Chain Analysis for how3.io",
@@ -432,8 +432,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$82.87 billion",
-          "tradingVolume": "$1435.93 million (24h)",
+          "marketCap": "$83.25 billion",
+          "tradingVolume": "$1239.02 million (24h)",
           "circulatingSupply": "140.89 million BNB",
           "totalSupply": "140.89 million BNB"
         }
@@ -505,7 +505,7 @@
     }
   },
   "celo": {
-    "id": "6e91c586-b8aa-4fb5-a166-6aa8f1bc3eb0",
+    "id": "6d58f9e8-ae38-468b-b812-ab34dec6e051",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "celo",
     "title": "Celo Analysis for how3.io",
@@ -534,7 +534,7 @@
         "dificultyTag": "Beginner friendly",
         "keyStats": {
           "marketCap": "$0.17 billion",
-          "tradingVolume": "$14.52 million (24h)",
+          "tradingVolume": "$14.05 million (24h)",
           "circulatingSupply": "567.96 million CELO",
           "totalSupply": "1000.00 million CELO"
         }
@@ -606,7 +606,7 @@
     }
   },
   "atom": {
-    "id": "fd4b8224-f858-47b9-a385-359189dd2f2c",
+    "id": "fd4ecbd8-f50f-4ada-ae2c-ff05260a87f6",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "cosmos",
     "title": "Cosmos Analysis for how3.io",
@@ -634,8 +634,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$1.63 billion",
-          "tradingVolume": "$97.66 million (24h)",
+          "marketCap": "$1.64 billion",
+          "tradingVolume": "$72.31 million (24h)",
           "circulatingSupply": "390.93 million ATOM",
           "totalSupply": "390.93 million ATOM"
         }
@@ -707,7 +707,7 @@
     }
   },
   "eth": {
-    "id": "ebf9a78b-a28c-4721-ae10-1866087f6895",
+    "id": "7646dd28-18f2-483c-9d32-ffecea8b25fa",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "ethereum",
     "title": "Ethereum Analysis for how3.io",
@@ -735,8 +735,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$191.29 billion",
-          "tradingVolume": "$10998.25 million (24h)",
+          "marketCap": "$194.86 billion",
+          "tradingVolume": "$7400.94 million (24h)",
           "circulatingSupply": "120.70 million ETH",
           "totalSupply": "120.70 million ETH"
         }
@@ -808,7 +808,7 @@
     }
   },
   "fil": {
-    "id": "abbb47c3-af4a-4ba0-b09d-4d3645075f62",
+    "id": "87d17510-dbb5-4085-bfd4-401d6629197e",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "filecoin",
     "title": "Filecoin Analysis for how3.io",
@@ -836,10 +836,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$1.60 billion",
-          "tradingVolume": "$69.50 million (24h)",
-          "circulatingSupply": "655.30 million FIL",
-          "totalSupply": "1959.55 million FIL"
+          "marketCap": "$1.71 billion",
+          "tradingVolume": "$72.87 million (24h)",
+          "circulatingSupply": "657.40 million FIL",
+          "totalSupply": "1959.54 million FIL"
         }
       },
       "RealWorldImpact": {
@@ -909,7 +909,7 @@
     }
   },
   "inj": {
-    "id": "12cd9581-b1b1-4793-8ac0-39a1215e9536",
+    "id": "9447817d-ebcf-4afb-943f-9fd01d8411e2",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "injective",
     "title": "Injective Analysis for how3.io",
@@ -937,8 +937,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$0.79 billion",
-          "tradingVolume": "$49.12 million (24h)",
+          "marketCap": "$0.83 billion",
+          "tradingVolume": "$61.01 million (24h)",
           "circulatingSupply": "99.97 million INJ",
           "totalSupply": "100.00 million INJ"
         }
@@ -1010,7 +1010,7 @@
     }
   },
   "icp": {
-    "id": "6d26c0a1-d9ff-46fb-be9e-db93bde259ba",
+    "id": "a4c0f4a8-c748-45e6-be84-219db9e42345",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "internet-computer",
     "title": "Internet Computer Analysis for how3.io",
@@ -1038,10 +1038,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$2.30 billion",
-          "tradingVolume": "$55.53 million (24h)",
+          "marketCap": "$2.40 billion",
+          "tradingVolume": "$54.87 million (24h)",
           "circulatingSupply": "485.94 million ICP",
-          "totalSupply": "532.47 million ICP"
+          "totalSupply": "532.46 million ICP"
         }
       },
       "RealWorldImpact": {
@@ -1111,7 +1111,7 @@
     }
   },
   "egld": {
-    "id": "b2687866-b99e-4e44-a7f4-c2fa02256c65",
+    "id": "8577f123-e8a6-488d-ab18-e3ac9d3055eb",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "multiversx",
     "title": "MultiversX Analysis for how3.io",
@@ -1140,9 +1140,9 @@
         "dificultyTag": "Beginner friendly",
         "keyStats": {
           "marketCap": "$0.40 billion",
-          "tradingVolume": "$12.62 million (24h)",
-          "circulatingSupply": "28.13 million EGLD",
-          "totalSupply": "28.14 million EGLD"
+          "tradingVolume": "$12.89 million (24h)",
+          "circulatingSupply": "28.14 million EGLD",
+          "totalSupply": "28.15 million EGLD"
         }
       },
       "RealWorldImpact": {
@@ -1212,7 +1212,7 @@
     }
   },
   "near": {
-    "id": "bab5f7a5-1e58-42a3-b94c-afe2f981cc2d",
+    "id": "b66f3c62-fb14-4c2e-b589-f244180c4ccc",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "near-protocol",
     "title": "NEAR Protocol Analysis for how3.io",
@@ -1240,10 +1240,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$2.50 billion",
-          "tradingVolume": "$153.52 million (24h)",
-          "circulatingSupply": "1206.50 million NEAR",
-          "totalSupply": "1245.72 million NEAR"
+          "marketCap": "$2.61 billion",
+          "tradingVolume": "$109.82 million (24h)",
+          "circulatingSupply": "1206.85 million NEAR",
+          "totalSupply": "1245.90 million NEAR"
         }
       },
       "RealWorldImpact": {
@@ -1313,7 +1313,7 @@
     }
   },
   "dot": {
-    "id": "54df21df-850c-44a7-9ff7-51641317f27b",
+    "id": "f752fe25-507a-4754-9364-bcdefd4cae2a",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "polkadot",
     "title": "Polkadot Analysis for how3.io",
@@ -1341,10 +1341,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$5.79 billion",
-          "tradingVolume": "$106.02 million (24h)",
-          "circulatingSupply": "1568.77 million DOT",
-          "totalSupply": "1568.77 million DOT"
+          "marketCap": "$5.93 billion",
+          "tradingVolume": "$88.68 million (24h)",
+          "circulatingSupply": "1569.38 million DOT",
+          "totalSupply": "1569.38 million DOT"
         }
       },
       "RealWorldImpact": {
@@ -1414,7 +1414,7 @@
     }
   },
   "red": {
-    "id": "7cacdc2a-e6ef-467d-9464-26ab8010fe99",
+    "id": "8227c973-2517-4355-85e6-2d69d5e72352",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "redstone",
     "title": "RedStone Analysis for how3.io",
@@ -1442,8 +1442,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$0.09 billion",
-          "tradingVolume": "$9.93 million (24h)",
+          "marketCap": "$0.10 billion",
+          "tradingVolume": "$11.93 million (24h)",
           "circulatingSupply": "280.00 million RED",
           "totalSupply": "597.00 million RED"
         }
@@ -1515,7 +1515,7 @@
     }
   },
   "ron": {
-    "id": "9d8cf758-8381-4706-84d0-5ef499733692",
+    "id": "48543183-536e-4538-8be0-b7932ddf6a40",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "ronin-network",
     "title": "Ronin Network Analysis for how3.io",
@@ -1543,8 +1543,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$0.30 billion",
-          "tradingVolume": "$6.27 million (24h)",
+          "marketCap": "$0.31 billion",
+          "tradingVolume": "$13.53 million (24h)",
           "circulatingSupply": "619.39 million RON",
           "totalSupply": "1000.00 million RON"
         }
@@ -1616,7 +1616,7 @@
     }
   },
   "sol": {
-    "id": "c42128f0-eb9e-43a7-abdf-cd10cca0bdf5",
+    "id": "0a0f0183-4b22-4eb4-b6c7-bc0d5074344a",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "solana",
     "title": "Solana Analysis for how3.io",
@@ -1644,10 +1644,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$69.47 billion",
-          "tradingVolume": "$3063.86 million (24h)",
-          "circulatingSupply": "516.37 million SOL",
-          "totalSupply": "598.73 million SOL"
+          "marketCap": "$71.62 billion",
+          "tradingVolume": "$2510.14 million (24h)",
+          "circulatingSupply": "516.60 million SOL",
+          "totalSupply": "598.88 million SOL"
         }
       },
       "RealWorldImpact": {
@@ -1717,7 +1717,7 @@
     }
   },
   "sonic": {
-    "id": "c1990848-e62a-4eb0-989d-ea87ae70a7c1",
+    "id": "208adecb-baa9-429f-a5a6-19235edf711e",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "sonic-labs-(prev.-fantom)",
     "title": "Sonic Labs (prev. Fantom) Analysis for how3.io",
@@ -1746,7 +1746,7 @@
         "dificultyTag": "Beginner friendly",
         "keyStats": {
           "marketCap": "N/A",
-          "tradingVolume": "$30.96 million (24h)",
+          "tradingVolume": "$22.25 million (24h)",
           "circulatingSupply": "N/A",
           "totalSupply": "2400.00 million SONIC"
         }
@@ -1818,7 +1818,7 @@
     }
   },
   "trx": {
-    "id": "93f5be6c-5d90-493a-b471-3fe6c175a98b",
+    "id": "d9694397-144a-42aa-838a-817227f9befb",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "tron",
     "title": "TRON Analysis for how3.io",
@@ -1846,10 +1846,10 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$23.23 billion",
-          "tradingVolume": "$508.25 million (24h)",
-          "circulatingSupply": "94950.66 million TRX",
-          "totalSupply": "94950.66 million TRX"
+          "marketCap": "$23.04 billion",
+          "tradingVolume": "$370.25 million (24h)",
+          "circulatingSupply": "94948.85 million TRX",
+          "totalSupply": "94948.85 million TRX"
         }
       },
       "RealWorldImpact": {
@@ -1919,7 +1919,7 @@
     }
   },
   "arb": {
-    "id": "93ff0703-6ae7-4850-9068-ae138b617d78",
+    "id": "0443e784-69eb-46be-b218-a5df7dc8f827",
     "coinId": "00000000-0000-0000-0000-000000000000",
     "name": "arbitrum",
     "title": "Arbitrum Analysis for how3.io",
@@ -1947,8 +1947,8 @@
         "readTime": 3,
         "dificultyTag": "Beginner friendly",
         "keyStats": {
-          "marketCap": "$1.34 billion",
-          "tradingVolume": "$97.98 million (24h)",
+          "marketCap": "$1.40 billion",
+          "tradingVolume": "$75.28 million (24h)",
           "circulatingSupply": "4617.91 million ARB",
           "totalSupply": "10000.00 million ARB"
         }
