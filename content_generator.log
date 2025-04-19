@@ -1,0 +1,441 @@
+2025-04-20 02:40:04,575 - INFO - Loaded CMC data with 43 entries
+2025-04-20 02:40:04,585 - INFO - Loaded CSV with 1022 rows
+2025-04-20 02:40:04,588 - ERROR - Fatal error in main: 'float' object has no attribute 'lower'
+2025-04-20 02:40:04,590 - ERROR - Exception traceback: Traceback (most recent call last):
+  File "C:\Users\rahul\mistralai7b-how3\complete_content_generator.py", line 453, in main
+    symbol = row["Symbol"].lower()
+             ^^^^^^^^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'lower'
+
+2025-04-20 02:44:53,351 - INFO - Loaded CMC data with 43 entries
+2025-04-20 02:44:53,356 - INFO - Loaded CSV with 1022 rows
+2025-04-20 02:44:53,395 - INFO - Filtered to 46 rows with valid symbols
+2025-04-20 02:44:53,395 - INFO - Testing with first 5 projects
+2025-04-20 02:44:53,395 - INFO - Processing project 1/5: Convex Finance (cvx)
+2025-04-20 02:44:55,350 - ERROR - Error generating content for Convex Finance: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-20 02:44:55,355 - ERROR - Exception traceback: Traceback (most recent call last):
+  File "C:\Users\rahul\mistralai7b-how3\complete_content_generator.py", line 337, in generate_gemini_content
+    response = model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+2025-04-20 02:44:55,356 - WARNING - Using default content for Convex Finance
+2025-04-20 02:44:55,358 - WARNING - Saved default content for Convex Finance
+2025-04-20 02:44:58,359 - INFO - Processing project 2/5: Algorand (algo)
+2025-04-20 02:44:58,707 - ERROR - Error generating content for Algorand: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-20 02:44:58,708 - ERROR - Exception traceback: Traceback (most recent call last):
+  File "C:\Users\rahul\mistralai7b-how3\complete_content_generator.py", line 337, in generate_gemini_content
+    response = model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+2025-04-20 02:44:58,709 - WARNING - Using default content for Algorand
+2025-04-20 02:44:58,711 - WARNING - Saved default content for Algorand
+2025-04-20 02:45:01,712 - INFO - Processing project 3/5: Aptos (apt)
+2025-04-20 02:45:02,061 - ERROR - Error generating content for Aptos: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+2025-04-20 02:45:02,062 - ERROR - Exception traceback: Traceback (most recent call last):
+  File "C:\Users\rahul\mistralai7b-how3\complete_content_generator.py", line 337, in generate_gemini_content
+    response = model.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\generativeai\generative_models.py", line 331, in generate_content
+    response = self._client.generate_content(
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\ai\generativelanguage_v1beta\services\generative_service\client.py", line 835, in generate_content
+    response = rpc(
+               ^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\gapic_v1\method.py", line 131, in __call__
+    return wrapped_func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 293, in retry_wrapped_func
+    return retry_target(
+           ^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 153, in retry_target
+    _retry_error_helper(
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_base.py", line 212, in _retry_error_helper
+    raise final_exc from source_exc
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\retry\retry_unary.py", line 144, in retry_target
+    result = target()
+             ^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\timeout.py", line 130, in func_with_timeout
+    return func(*args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\rahul\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\google\api_core\grpc_helpers.py", line 78, in error_remapped_callable
+    raise exceptions.from_grpc_error(exc) from exc
+google.api_core.exceptions.NotFound: 404 models/gemini-pro is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.
+
+2025-04-20 02:45:02,063 - WARNING - Using default content for Aptos
+2025-04-20 02:45:02,064 - WARNING - Saved default content for Aptos
+2025-04-20 02:52:28,522 - INFO - Loaded CMC data with 43 entries
+2025-04-20 02:52:28,529 - INFO - Loaded CSV with 1022 rows
+2025-04-20 02:52:28,569 - INFO - Filtered to 46 rows with valid symbols
+2025-04-20 02:52:28,569 - INFO - Testing with first 5 projects
+2025-04-20 02:52:28,569 - INFO - Processing project 1/5: Convex Finance (cvx)
+2025-04-20 02:52:35,645 - INFO - Generated content for Convex Finance (first 100 chars): Here's the content for how3.io about Convex Finance:
+
+**1. Value Generation**
+
+Convex Finance helps ...
+2025-04-20 02:52:35,651 - INFO - Successfully processed Convex Finance
+2025-04-20 02:52:38,652 - INFO - Processing project 2/5: Algorand (algo)
+2025-04-20 02:52:43,974 - INFO - Generated content for Algorand (first 100 chars): Here's the content for how3.io about Algorand:
+
+**1. Value Generation**
+
+Algorand (ALGO) creates val...
+2025-04-20 02:52:43,974 - INFO - Successfully processed Algorand
+2025-04-20 02:52:46,981 - INFO - Processing project 3/5: Aptos (apt)
+2025-04-20 02:52:52,441 - INFO - Generated content for Aptos (first 100 chars): Here's the content for how3.io about Aptos:
+
+**1. Value Generation**
+
+Aptos creates value by providi...
+2025-04-20 02:52:52,446 - INFO - Successfully processed Aptos
+2025-04-20 02:52:55,446 - INFO - Processing project 4/5: Avalanche (avax)
+2025-04-20 02:53:01,179 - INFO - Generated content for Avalanche (first 100 chars): Here's the content for how3.io about Avalanche, designed for retail investors transitioning from tra...
+2025-04-20 02:53:01,184 - INFO - Successfully processed Avalanche
+2025-04-20 02:53:04,186 - INFO - Processing project 5/5: BNB Chain (bnb)
+2025-04-20 02:53:09,802 - INFO - Generated content for BNB Chain (first 100 chars): Here's the content for how3.io about BNB Chain:
+
+**1. Value Generation**
+
+BNB Chain helps people use...
+2025-04-20 02:53:09,814 - INFO - Successfully processed BNB Chain
+2025-04-20 02:53:09,816 - INFO - Saved combined data with 5 projects
+2025-04-20 02:53:12,817 - INFO - Processing complete: 5 successes, 0 errors
+2025-04-20 02:53:12,817 - INFO - Results saved to project_content directory
+2025-04-20 03:02:56,777 - INFO - Loaded CMC data with 43 entries
+2025-04-20 03:02:56,777 - INFO - Loaded CSV with 1022 rows
+2025-04-20 03:02:56,814 - INFO - Filtered to 46 rows with valid symbols
+2025-04-20 03:02:56,814 - INFO - Testing with first 5 projects
+2025-04-20 03:02:56,814 - INFO - Processing project 1/46: Convex Finance (cvx)
+2025-04-20 03:03:03,722 - INFO - Generated content for Convex Finance (first 100 chars): Here's the content for how3.io about Convex Finance:
+
+**1. Value Generation**
+
+Convex Finance helps ...
+2025-04-20 03:03:03,742 - INFO - Successfully processed Convex Finance
+2025-04-20 03:03:06,743 - INFO - Processing project 2/46: Algorand (algo)
+2025-04-20 03:03:12,066 - INFO - Generated content for Algorand (first 100 chars): Here's the content for how3.io about Algorand:
+
+**1. Value Generation**
+
+Algorand helps people build...
+2025-04-20 03:03:12,073 - INFO - Successfully processed Algorand
+2025-04-20 03:03:15,073 - INFO - Processing project 3/46: Aptos (apt)
+2025-04-20 03:03:20,668 - INFO - Generated content for Aptos (first 100 chars): Here's the content for how3.io about Aptos:
+
+**1. Value Generation**
+
+Aptos creates value by providi...
+2025-04-20 03:03:20,688 - INFO - Successfully processed Aptos
+2025-04-20 03:03:23,689 - INFO - Processing project 4/46: Avalanche (avax)
+2025-04-20 03:03:29,125 - INFO - Generated content for Avalanche (first 100 chars): Here's the content for how3.io about Avalanche (AVAX):
+
+**1. Value Generation**
+
+Avalanche helps peo...
+2025-04-20 03:03:29,125 - INFO - Successfully processed Avalanche
+2025-04-20 03:03:32,132 - INFO - Processing project 5/46: BNB Chain (bnb)
+2025-04-20 03:03:37,292 - INFO - Generated content for BNB Chain (first 100 chars): Here's the content for how3.io about BNB Chain:
+
+**1. Value Generation**
+
+BNB Chain creates value by...
+2025-04-20 03:03:37,292 - INFO - Successfully processed BNB Chain
+2025-04-20 03:03:37,305 - INFO - Saved combined data with 5 projects
+2025-04-20 03:03:40,306 - INFO - Processing project 6/46: Celo (celo)
+2025-04-20 03:03:45,947 - INFO - Generated content for Celo (first 100 chars): Here's the content for how3.io about Celo:
+
+**1. Value Generation**
+
+Celo creates value by making it...
+2025-04-20 03:03:45,955 - INFO - Successfully processed Celo
+2025-04-20 03:03:48,960 - INFO - Processing project 7/46: Cosmos (atom)
+2025-04-20 03:03:54,148 - INFO - Generated content for Cosmos (first 100 chars): Here's the content for how3.io about Cosmos (ATOM):
+
+**1. Value Generation**
+
+Cosmos helps different...
+2025-04-20 03:03:54,148 - INFO - Successfully processed Cosmos
+2025-04-20 03:03:57,156 - INFO - Processing project 8/46: Ethereum (eth)
+2025-04-20 03:04:02,294 - INFO - Generated content for Ethereum (first 100 chars): Here's the content for how3.io about Ethereum:
+
+**1. Value Generation**
+
+Ethereum is like a digital ...
+2025-04-20 03:04:02,308 - INFO - Successfully processed Ethereum
+2025-04-20 03:04:05,310 - INFO - Processing project 9/46: Filecoin (fil)
+2025-04-20 03:04:10,325 - INFO - Generated content for Filecoin (first 100 chars): Okay, here's the content for how3.io about Filecoin, designed for retail investors transitioning fro...
+2025-04-20 03:04:10,325 - INFO - Successfully processed Filecoin
+2025-04-20 03:04:13,336 - INFO - Processing project 10/46: Injective (inj)
+2025-04-20 03:04:18,898 - INFO - Generated content for Injective (first 100 chars): Here's the content for how3.io about Injective:
+
+**1. Value Generation**
+
+Injective helps users make...
+2025-04-20 03:04:18,903 - INFO - Successfully processed Injective
+2025-04-20 03:04:18,908 - INFO - Saved combined data with 10 projects
+2025-04-20 03:04:21,909 - INFO - Processing project 11/46: Internet Computer (icp)
+2025-04-20 03:04:27,756 - INFO - Generated content for Internet Computer (first 100 chars): Here's the content for how3.io about Internet Computer (ICP):
+
+**1. Value Generation**
+
+Internet Com...
+2025-04-20 03:04:27,762 - INFO - Successfully processed Internet Computer
+2025-04-20 03:04:30,766 - INFO - Processing project 12/46: MultiversX (egld)
+2025-04-20 03:04:36,532 - INFO - Generated content for MultiversX (first 100 chars): Here's the content for how3.io about MultiversX (EGLD), designed for retail investors transitioning ...
+2025-04-20 03:04:36,548 - INFO - Successfully processed MultiversX
+2025-04-20 03:04:39,549 - INFO - Processing project 13/46: NEAR Protocol (near)
+2025-04-20 03:04:44,362 - INFO - Generated content for NEAR Protocol (first 100 chars): Here's the content for how3.io about NEAR Protocol:
+
+**1. Value Generation**
+
+NEAR Protocol helps pe...
+2025-04-20 03:04:44,373 - INFO - Successfully processed NEAR Protocol
+2025-04-20 03:04:47,374 - INFO - Processing project 14/46: Polkadot (dot)
+2025-04-20 03:04:52,889 - INFO - Generated content for Polkadot (first 100 chars): Here's the content for how3.io about Polkadot:
+
+**1. Value Generation (50-70 words)**
+
+Polkadot crea...
+2025-04-20 03:04:52,894 - INFO - Successfully processed Polkadot
+2025-04-20 03:04:55,896 - INFO - Processing project 15/46: RedStone (red)
+2025-04-20 03:05:02,033 - INFO - Generated content for RedStone (first 100 chars): Here's the content for how3.io about RedStone:
+
+**1. Value Generation (50-70 words)**
+
+RedStone gene...
+2025-04-20 03:05:02,037 - INFO - Successfully processed RedStone
+2025-04-20 03:05:02,044 - INFO - Saved combined data with 15 projects
+2025-04-20 03:05:05,046 - INFO - Processing project 16/46: Ronin Network (ron)
+2025-04-20 03:05:10,512 - INFO - Generated content for Ronin Network (first 100 chars): Here's the content for how3.io about Ronin Network, designed for beginners:
+
+**1. Value Generation**...
+2025-04-20 03:05:10,517 - INFO - Successfully processed Ronin Network
+2025-04-20 03:05:13,520 - INFO - Processing project 17/46: Solana (sol)
+2025-04-20 03:05:18,821 - INFO - Generated content for Solana (first 100 chars): Here's the content for how3.io about Solana:
+
+**1. Value Generation**
+
+Solana creates value by being...
+2025-04-20 03:05:18,838 - INFO - Successfully processed Solana
+2025-04-20 03:05:21,840 - INFO - Processing project 18/46: Sonic Labs (prev. Fantom) (sonic)
+2025-04-20 03:05:27,665 - INFO - Generated content for Sonic Labs (prev. Fantom) (first 100 chars): Here's the content for Sonic Labs (prev. Fantom) on how3.io:
+
+**1. Value Generation**
+
+Sonic Labs (p...
+2025-04-20 03:05:27,665 - INFO - Successfully processed Sonic Labs (prev. Fantom)
+2025-04-20 03:05:30,679 - INFO - Processing project 19/46: TRON (trx)
+2025-04-20 03:05:36,210 - INFO - Generated content for TRON (first 100 chars): Here's the content for how3.io about TRON:
+
+**1. Value Generation**
+
+TRON helps content creators and...
+2025-04-20 03:05:36,217 - INFO - Successfully processed TRON
+2025-04-20 03:05:39,218 - INFO - Processing project 20/46: Arbitrum (arb)
+2025-04-20 03:05:44,835 - INFO - Generated content for Arbitrum (first 100 chars): Here's the content for how3.io about Arbitrum:
+
+**1. Value Generation**
+
+Arbitrum helps make transac...
+2025-04-20 03:05:44,843 - INFO - Successfully processed Arbitrum
+2025-04-20 03:05:44,850 - INFO - Saved combined data with 20 projects
+2025-04-20 03:05:47,851 - INFO - Processing project 21/46: Gravity (gzro)
+2025-04-20 03:05:53,312 - INFO - Generated content for Gravity (first 100 chars): Here's the content for how3.io about the Gravity (GZRO) project:
+
+**1. Value Generation**
+
+Gravity (...
+2025-04-20 03:05:53,324 - INFO - Successfully processed Gravity
+2025-04-20 03:05:56,326 - INFO - Processing project 22/46: Immutable X (imx)
+2025-04-20 03:06:01,880 - INFO - Generated content for Immutable X (first 100 chars): Here's the content for how3.io about Immutable X:
+
+**1. Value Generation**
+
+Immutable X helps people...
+2025-04-20 03:06:01,884 - INFO - Successfully processed Immutable X
+2025-04-20 03:06:04,886 - INFO - Processing project 23/46: zkSync (zk)
+2025-04-20 03:06:10,310 - INFO - Generated content for zkSync (first 100 chars): Here's the content for how3.io about zkSync:
+
+**1. Value Generation**
+
+zkSync helps people save mone...
+2025-04-20 03:06:10,317 - INFO - Successfully processed zkSync
+2025-04-20 03:06:13,318 - INFO - Processing project 24/46: GMX (gmx)
+2025-04-20 03:06:19,126 - INFO - Generated content for GMX (first 100 chars): Here's the content for how3.io about GMX:
+
+**1. Value Generation**
+
+GMX helps people trade crypto wi...
+2025-04-20 03:06:19,131 - INFO - Successfully processed GMX
+2025-04-20 03:06:22,133 - INFO - Processing project 25/46: Pendle (pendle)
+2025-04-20 03:06:27,908 - INFO - Generated content for Pendle (first 100 chars): Here's the content for how3.io about Pendle, designed for retail investors transitioning from tradit...
+2025-04-20 03:06:27,922 - INFO - Successfully processed Pendle
+2025-04-20 03:06:27,930 - INFO - Saved combined data with 25 projects
+2025-04-20 03:06:30,931 - INFO - Processing project 26/46: Synthetix (snx)
+2025-04-20 03:06:36,825 - INFO - Generated content for Synthetix (first 100 chars): Here's the content for how3.io about Synthetix, designed for retail investors transitioning from tra...
+2025-04-20 03:06:36,833 - INFO - Successfully processed Synthetix
+2025-04-20 03:06:39,837 - INFO - Processing project 29/46: Aerodrome Finance (aero)
+2025-04-20 03:06:45,471 - INFO - Generated content for Aerodrome Finance (first 100 chars): Here's the content for Aerodrome Finance, tailored for how3.io and retail investors transitioning fr...
+2025-04-20 03:06:45,471 - INFO - Successfully processed Aerodrome Finance
+2025-04-20 03:06:48,478 - INFO - Processing project 32/46: Curve DAO Token (crv)
+2025-04-20 03:06:54,511 - INFO - Generated content for Curve DAO Token (first 100 chars): Here's the content for how3.io about Curve DAO Token, designed for beginners:
+
+**1. Value Generation...
+2025-04-20 03:06:54,527 - INFO - Successfully processed Curve DAO Token
+2025-04-20 03:06:57,528 - INFO - Processing project 34/46: Ethena (ena)
+2025-04-20 03:07:03,346 - INFO - Generated content for Ethena (first 100 chars): Here's the content for how3.io about Ethena, designed for beginner crypto investors:
+
+**1. Value Gen...
+2025-04-20 03:07:03,360 - INFO - Successfully processed Ethena
+2025-04-20 03:07:06,361 - INFO - Processing project 35/46: Mocaverse (moca)
+2025-04-20 03:07:11,835 - INFO - Generated content for Mocaverse (first 100 chars): Here's the content for how3.io about Mocaverse:
+
+**1. Value Generation (50-70 words)**
+
+Mocaverse he...
+2025-04-20 03:07:11,851 - INFO - Successfully processed Mocaverse
+2025-04-20 03:07:11,862 - INFO - Saved combined data with 30 projects
+2025-04-20 03:07:14,863 - INFO - Processing project 36/46: PancakeSwap (cake)
+2025-04-20 03:07:20,324 - INFO - Generated content for PancakeSwap (first 100 chars): Here's the content for how3.io about PancakeSwap:
+
+**1. Value Generation**
+
+PancakeSwap helps you sw...
+2025-04-20 03:07:20,339 - INFO - Successfully processed PancakeSwap
+2025-04-20 03:07:23,339 - INFO - Processing project 38/46: Sushiswap (sushi)
+2025-04-20 03:07:29,484 - INFO - Generated content for Sushiswap (first 100 chars): Here's the content for how3.io about Sushiswap:
+
+**1. Value Generation**
+
+Sushiswap helps people tra...
+2025-04-20 03:07:29,495 - INFO - Successfully processed Sushiswap
+2025-04-20 03:07:32,500 - INFO - Processing project 42/46: Chainlink (link)
+2025-04-20 03:07:37,898 - INFO - Generated content for Chainlink (first 100 chars): Here's the Chainlink content for how3.io:
+
+**1. Value Generation**
+
+Chainlink helps make blockchain ...
+2025-04-20 03:07:37,898 - INFO - Successfully processed Chainlink
+2025-04-20 03:07:40,907 - INFO - Processing project 43/46: Aave (aave)
+2025-04-20 03:07:46,575 - INFO - Generated content for Aave (first 100 chars): Here's the content for Aave, designed for how3.io and retail investors new to crypto:
+
+**1. Value Ge...
+2025-04-20 03:07:46,579 - INFO - Successfully processed Aave
+2025-04-20 03:07:49,581 - INFO - Processing project 44/46: BENQI Liquid Staked AVAX (savax)
+2025-04-20 03:07:54,731 - INFO - Generated content for BENQI Liquid Staked AVAX (first 100 chars): Here's the content for how3.io on BENQI Liquid Staked AVAX (SAVAX), designed for retail investors tr...
+2025-04-20 03:07:54,731 - INFO - Successfully processed BENQI Liquid Staked AVAX
+2025-04-20 03:07:57,738 - INFO - Processing project 45/46: Compound (comp)
+2025-04-20 03:08:03,755 - INFO - Generated content for Compound (first 100 chars): Here's the content for how3.io about Compound (COMP), designed for retail investors transitioning fr...
+2025-04-20 03:08:03,755 - INFO - Successfully processed Compound
+2025-04-20 03:08:03,777 - INFO - Saved combined data with 36 projects
+2025-04-20 03:08:06,778 - INFO - Processing project 61/46: Maple Finance (mpl)
+2025-04-20 03:08:12,613 - INFO - Generated content for Maple Finance (first 100 chars): Here's the content for how3.io about Maple Finance, designed for retail investors transitioning from...
+2025-04-20 03:08:12,613 - INFO - Successfully processed Maple Finance
+2025-04-20 03:08:15,622 - INFO - Processing project 62/46: Vechain (vet)
+2025-04-20 03:08:20,742 - INFO - Generated content for Vechain (first 100 chars): Here's the content for how3.io about Vechain, designed for beginners:
+
+**1. Value Generation**
+
+Vech...
+2025-04-20 03:08:20,744 - INFO - Successfully processed Vechain
+2025-04-20 03:08:23,749 - INFO - Processing project 73/46: Venus USDT (vusdt)
+2025-04-20 03:08:29,872 - INFO - Generated content for Venus USDT (first 100 chars): Here's the content for how3.io about Venus USDT:
+
+**1. Value Generation (50-70 words)**
+
+Venus USDT ...
+2025-04-20 03:08:29,877 - INFO - Successfully processed Venus USDT
+2025-04-20 03:08:32,878 - INFO - Processing project 81/46: Jito Labs (jto)
+2025-04-20 03:08:38,430 - INFO - Generated content for Jito Labs (first 100 chars): Here's the content for how3.io about Jito Labs, designed for beginner crypto investors:
+
+**1. Value ...
+2025-04-20 03:08:38,430 - INFO - Successfully processed Jito Labs
+2025-04-20 03:08:41,437 - INFO - Processing project 86/46: Lido DAO (ldo)
+2025-04-20 03:08:46,955 - INFO - Generated content for Lido DAO (first 100 chars): Here's the content for how3.io about Lido DAO:
+
+**1. Value Generation**
+
+Lido DAO helps you earn rew...
+2025-04-20 03:08:46,960 - INFO - Successfully processed Lido DAO
+2025-04-20 03:08:49,962 - INFO - Processing project 87/46: Stader ETHx (ethx)
+2025-04-20 03:08:55,924 - INFO - Generated content for Stader ETHx (first 100 chars): Here's the content for how3.io about Stader ETHx:
+
+**1. Value Generation**
+
+Stader ETHx helps you ea...
+2025-04-20 03:08:55,937 - INFO - Successfully processed Stader ETHx
+2025-04-20 03:08:58,938 - INFO - Processing project 90/46: Entangle (ngl)
+2025-04-20 03:09:04,238 - INFO - Generated content for Entangle (first 100 chars): Okay, here's the content for how3.io about Entangle (NGL), designed for retail investors new to cryp...
+2025-04-20 03:09:04,244 - INFO - Successfully processed Entangle
+2025-04-20 03:09:04,258 - INFO - Saved combined data with 43 projects
+2025-04-20 03:09:07,260 - INFO - Processing project 115/46: Ethena (ena)
+2025-04-20 03:09:13,149 - INFO - Generated content for Ethena (first 100 chars): Here's the content for how3.io about Ethena:
+
+**1. Value Generation**
+
+Ethena aims to create value b...
+2025-04-20 03:09:13,149 - INFO - Successfully processed Ethena
+2025-04-20 03:09:13,170 - INFO - Saved combined data with 43 projects
+2025-04-20 03:09:16,173 - INFO - Processing project 118/46: OriginTrail (trac)
+2025-04-20 03:09:21,653 - INFO - Generated content for OriginTrail (first 100 chars): Here's the content for how3.io about OriginTrail (TRAC), designed for retail investors transitioning...
+2025-04-20 03:09:21,658 - INFO - Successfully processed OriginTrail
+2025-04-20 03:09:24,660 - INFO - Processing project 150/46: Sky (formerly MakerDAO) (mkr)
+2025-04-20 03:09:30,042 - INFO - Generated content for Sky (formerly MakerDAO) (first 100 chars): Here's the content for how3.io about Sky (formerly MakerDAO):
+
+**1. Value Generation**
+
+Sky (formerl...
+2025-04-20 03:09:30,050 - INFO - Successfully processed Sky (formerly MakerDAO)
+2025-04-20 03:09:30,063 - INFO - Saved combined data with 45 projects
+2025-04-20 03:09:33,064 - INFO - Processing complete: 46 successes, 0 errors
+2025-04-20 03:09:33,064 - INFO - Results saved to project_content directory

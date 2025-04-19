@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Sky (formerly MakerDAO)",
+  "title": "Sky (formerly MakerDAO) Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/sky-(formerly-makerdao)-mkr-logo.svg",
+  "description": "Sky (formerly MakerDAO) is a cryptocurrency project in the The project is known for innovation in its sector....",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "This project generates value by providing a valuable service in the cryptocurrency ecosystem. Users benefit from its utility while token holders receive a portion of the fees generated.",
+      "title": "Value Generation",
+      "heading": "How MKR Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "The project is known for innovation in its sector. It addresses key challenges and offers unique solutions that differentiate it from competitors in the blockchain space.",
+      "title": "Market Position",
+      "heading": "What is MKR Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "This project has established itself as a notable player in the cryptocurrency ecosystem. It has gained recognition for its technology and utility.",
+      "title": "Project Size",
+      "heading": "How Significant is MKR in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$1.16 billion",
+        "tradingVolume": "$49.21 million (24h)",
+        "circulatingSupply": "0.84 million MKR",
+        "totalSupply": "0.87 million MKR"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "The project has applications across various geographic regions and industries. It provides solutions to real-world problems and has influenced the broader blockchain ecosystem.",
+      "title": "Real World Impact",
+      "heading": "Where Does MKR Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "The project was created by a team of blockchain experts with backgrounds in technology and finance. They launched the project with a vision to address key challenges in the sector.",
+      "title": "Founders",
+      "heading": "Who Created MKR",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "This project solves fundamental challenges in the blockchain space by providing innovative solutions. Its approach addresses inefficiencies and creates new opportunities for users.",
+      "title": "Problem Solving",
+      "heading": "What challenges does MKR solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Stablecoin Innovation",
+        "description": "DAI is a widely used and trusted stablecoin, providing stability in the volatile crypto market. Its collateralized design helps maintain its peg to the US dollar.\n\n*   **Pioneering DeFi Project**: Sky (formerly MakerDAO) was one of the first major DeFi projects, establishing a foundation for decentralized lending and borrowing. It has paved the way for many other innovative DeFi applications."
+      },
+      {
+        "title": "8. Weaknesses",
+        "description": "*   **Collateralization Risk**: DAI's stability relies on the value of the collateral used to create it. If the value of the collateral drops significantly, it could threaten the stability of DAI.\n\n*   **Complexity**: The mechanics of creating and managing DAI can be complex for new users to understand. This complexity can hinder wider adoption.\n\n*   **Governance Challenges**: Decentralized governance can be slow and subject to disagreements among token holders. This can make it difficult to implement necessary changes quickly."
+      },
+      {
+        "title": "9. Whitepaper Summary",
+        "description": "The Sky (formerly MakerDAO) whitepaper outlines a vision for a decentralized credit system built on the Ethereum blockchain. The core idea is to create DAI, a stablecoin pegged to the US dollar, through a system of collateralized debt positions (CDPs). Users lock up cryptocurrencies as collateral to generate DAI, which can then be used for various purposes within the crypto ecosystem. The MKR token is used for governance and to stabilize the system. If DAI falls below its target price, MKR tokens are burned to reduce the supply. The project solves the problem of volatility in the crypto market by providing a stable and decentralized currency for transactions and savings. The whitepaper details the mechanisms for maintaining DAI's peg, the role of MKR holders in governance, and the overall architecture of the Sky protocol."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Complexity",
+        "description": "The mechanics of creating and managing DAI can be complex for new users to understand. This complexity can hinder wider adoption.\n\n*   **Governance Challenges**: Decentralized governance can be slow and subject to disagreements among token holders. This can make it difficult to implement necessary changes quickly."
+      },
+      {
+        "title": "9. Whitepaper Summary",
+        "description": "The Sky (formerly MakerDAO) whitepaper outlines a vision for a decentralized credit system built on the Ethereum blockchain. The core idea is to create DAI, a stablecoin pegged to the US dollar, through a system of collateralized debt positions (CDPs). Users lock up cryptocurrencies as collateral to generate DAI, which can then be used for various purposes within the crypto ecosystem. The MKR token is used for governance and to stabilize the system. If DAI falls below its target price, MKR tokens are burned to reduce the supply. The project solves the problem of volatility in the crypto market by providing a stable and decentralized currency for transactions and savings. The whitepaper details the mechanisms for maintaining DAI's peg, the role of MKR holders in governance, and the overall architecture of the Sky protocol."
+      },
+      {
+        "title": "DAI's stability relies on the value of the collateral used to create it.",
+        "description": "If the value of the collateral drops significantly, it could threaten the stability of DAI."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 63.81696429,
+    "earning": 77.66717859,
+    "fairValue": 45.0,
+    "safety": 91.99,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 63.81696429,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 77.66717859,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 45.0,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 91.99,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The project provides a blockchain-based solution that addresses key challenges in its sector. It utilizes innovative technology to create value for users and token holders while maintaining security and efficiency.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Sky (formerly MakerDAO)'s growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Sky (formerly MakerDAO)'s percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}
