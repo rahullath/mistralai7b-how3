@@ -127,6 +127,895 @@
         "description": "These scores compare Aave's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Aave's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
       }
     },
+    "btc": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Bitcoin",
+  "title": "Bitcoin Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/bitcoin-btc-logo.svg",
+  "description": "Bitcoin is the world's first cryptocurrency that enables peer-to-peer transactions without the need for intermediaries like banks or payment processors.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Bitcoin generates value by being a scarce digital asset with a capped supply of 21 million coins. It acts as a store of value (similar to digital gold) and a medium of exchange. Miners secure the network and process transactions, earning newly minted Bitcoin and transaction fees as rewards.",
+      "title": "Value Generation",
+      "heading": "How BTC Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Bitcoin is the original cryptocurrency and remains the largest by market capitalization. It pioneered blockchain technology and introduced the concept of a decentralized, trustless monetary system. Bitcoin is recognized globally as the flagship cryptocurrency that paved the way for thousands of other digital assets.",
+      "title": "Market Position",
+      "heading": "What is BTC Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Bitcoin dominates the cryptocurrency landscape with the largest market capitalization in the industry. Its network consists of thousands of nodes distributed worldwide, making it highly secure and resilient. Bitcoin has achieved significant mainstream recognition, with major companies adding it to their balance sheets and countries like El Salvador adopting it as legal tender.",
+      "title": "Project Size",
+      "heading": "How Significant is BTC in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$1753.88 billion",
+        "tradingVolume": "$38121.30 million (24h)",
+        "circulatingSupply": "19.85 million BTC",
+        "totalSupply": "19.85 million BTC"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Bitcoin has global reach and influence, particularly in regions with unstable currencies or limited banking access. It serves as a financial alternative in countries experiencing hyperinflation like Venezuela and Argentina. Additionally, Bitcoin has become an important asset class for institutional investors and is increasingly accepted by merchants worldwide for payments.",
+      "title": "Real World Impact",
+      "heading": "Where Does BTC Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Bitcoin was created by Satoshi Nakamoto, a pseudonymous person or group who published the Bitcoin whitepaper in October 2008 during the global financial crisis. Nakamoto released the first Bitcoin software in January 2009 and remained active in the project until 2010 before disappearing. Their true identity remains unknown, adding to the mystique of Bitcoin's origin story.",
+      "title": "Founders",
+      "heading": "Who Created BTC",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Bitcoin solves the problem of trust in financial transactions by eliminating the need for intermediaries like banks. Before Bitcoin, online transactions required trusted third parties to prevent double-spending of digital money. Bitcoin's blockchain innovation creates a transparent, immutable ledger that enables secure peer-to-peer transactions without central authorities, reducing costs and increasing financial freedom.",
+      "title": "Problem Solving",
+      "heading": "What challenges does BTC solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Scarcity and Store of Value",
+        "description": "Bitcoin has a fixed supply cap of 21 million coins, making it inherently scarce. This scarcity, combined with growing demand, supports its position as a hedge against inflation and currency devaluation."
+      },
+      {
+        "title": "Network Security",
+        "description": "Bitcoin's proof-of-work consensus mechanism is secured by massive computing power, making attacks prohibitively expensive. This security has been battle-tested for over a decade without any successful attacks on the main protocol."
+      },
+      {
+        "title": "Brand Recognition and First-Mover Advantage",
+        "description": "As the first cryptocurrency, Bitcoin enjoys unparalleled brand recognition and network effects. Its established history and widespread adoption give it significant advantages over newer cryptocurrencies."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Energy Consumption",
+        "description": "Bitcoin's proof-of-work mining requires substantial electricity, raising environmental concerns. This energy usage has attracted criticism and regulatory scrutiny in some regions."
+      },
+      {
+        "title": "Scalability Limitations",
+        "description": "The Bitcoin network processes approximately 7 transactions per second, far fewer than traditional payment systems. This limitation can lead to higher fees and slower confirmations during periods of high demand."
+      },
+      {
+        "title": "Regulatory Uncertainty",
+        "description": "Bitcoin faces varying regulatory approaches across different countries, creating uncertainty for users and businesses. Changes in government policies regarding cryptocurrency can impact Bitcoin's accessibility and adoption."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 85.5,
+    "earning": 70.2,
+    "fairValue": 75.8,
+    "safety": 95.5,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 85.5,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 70.2,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 75.8,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 95.5,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Bitcoin's whitepaper, titled \"Bitcoin: A Peer-to-Peer Electronic Cash System,\" outlines a revolutionary digital currency that operates without central authority. The document explains how Bitcoin's blockchain technology solves the double-spending problem through a proof-of-work consensus mechanism and timestamped transaction blocks. It introduces mining as the process for transaction verification and new coin issuance, with a built-in halving schedule that ensures scarcity. The paper emphasizes Bitcoin's trustless nature, where transactions are verified by network nodes and recorded on a public ledger, eliminating the need for financial intermediaries. This relatively short but profound document laid the groundwork for not just Bitcoin but the entire cryptocurrency industry.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Bitcoin's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Bitcoin's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
+    "jup": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Jupiter",
+  "title": "Jupiter Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/jupiter-jup-logo.svg",
+  "description": "Jupiter is a liquidity aggregator and swap infrastructure that provides the best token trading experience on the Solana blockchain.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Jupiter generates value by facilitating token swaps with the best prices on Solana. It charges a small fee on transactions while saving users money through efficient routing and competitive rates. JUP token holders benefit from governance rights, potential fee sharing, and various platform utilities across the Jupiter ecosystem.",
+      "title": "Value Generation",
+      "heading": "How JUP Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Jupiter is the leading swap aggregator on Solana, known for providing the best prices by routing trades through multiple exchanges. Its main innovation is the ability to find the most efficient trading routes across the entire Solana ecosystem. Jupiter has become the go-to trading infrastructure, serving both retail users through its interface and developers through its API.",
+      "title": "Market Position",
+      "heading": "What is JUP Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Jupiter is a cornerstone of the Solana ecosystem, processing a significant portion of all DEX trading volume on the network. It has facilitated billions in trading volume and is used by hundreds of thousands of users. As Solana's premier liquidity aggregator, Jupiter has become essential infrastructure that most Solana applications and users rely on for token swaps.",
+      "title": "Project Size",
+      "heading": "How Significant is JUP in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$1.16 billion",
+        "tradingVolume": "$47.55 million (24h)",
+        "circulatingSupply": "2844.38 million JUP",
+        "totalSupply": "6999.98 million JUP"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Jupiter's influence extends throughout the entire Solana ecosystem and to users worldwide who trade on the Solana blockchain. By making token swaps more efficient and affordable, Jupiter has improved accessibility to decentralized finance. Its API is used by numerous applications, wallets, and platforms, expanding its reach beyond direct users to anyone interacting with the Solana DeFi ecosystem.",
+      "title": "Real World Impact",
+      "heading": "Where Does JUP Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Jupiter was founded by a team led by Meow, a pseudonymous developer with extensive experience in the Solana ecosystem. The project launched in 2021 and quickly gained traction due to its superior trading experience. The founding team focused on building essential infrastructure for Solana rather than just another application, establishing Jupiter as a critical component of the network's DeFi capabilities.",
+      "title": "Founders",
+      "heading": "Who Created JUP",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Jupiter solves the problem of fragmented liquidity in decentralized exchanges. Before Jupiter, traders had to manually check multiple platforms to find the best rates, wasting time and often paying higher prices. Jupiter aggregates liquidity from across the Solana ecosystem, automatically finding the best trading routes and rates, making decentralized trading as seamless and cost-effective as possible.",
+      "title": "Problem Solving",
+      "heading": "What challenges does JUP solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Market Dominance",
+        "description": "Jupiter has established itself as the leading swap aggregator on Solana with overwhelming market share. This dominant position creates strong network effects that make it difficult for competitors to challenge."
+      },
+      {
+        "title": "Technical Excellence",
+        "description": "The platform is known for its superior routing algorithms that consistently find the best prices. Jupiter's technical infrastructure is reliable and efficient, handling high transaction volumes with minimal issues."
+      },
+      {
+        "title": "Ecosystem Integration",
+        "description": "Jupiter is deeply integrated into the Solana ecosystem, with its API used by numerous applications and wallets. This widespread adoption establishes Jupiter as essential infrastructure rather than just another application."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Solana Dependency",
+        "description": "Jupiter operates exclusively on the Solana blockchain, limiting its potential market. Any technical issues or competition affecting Solana could directly impact Jupiter's growth prospects."
+      },
+      {
+        "title": "Competitive Landscape",
+        "description": "While currently dominant, Jupiter faces potential competition from other aggregators and exchanges. The low barriers to entry in software development mean new competitors could emerge with innovative features."
+      },
+      {
+        "title": "Regulatory Considerations",
+        "description": "As a decentralized exchange platform, Jupiter could face regulatory challenges in certain jurisdictions. Evolving regulations around DeFi and token swaps could affect how Jupiter operates in different regions."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 82.4,
+    "earning": 68.9,
+    "fairValue": 71.2,
+    "safety": 83.5,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 82.4,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 68.9,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 71.2,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 83.5,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Jupiter's documentation outlines its mission to provide the best swap experience on Solana by aggregating liquidity from all major exchanges and automatically finding the most efficient trading routes. The project focuses on three core offerings: a user-friendly swap interface, powerful APIs for developers, and essential infrastructure for the Solana ecosystem. The JUP token serves as both a governance token and utility token within the ecosystem, allowing holders to vote on protocol decisions and access premium features. Jupiter solves the problem of fragmented liquidity in decentralized exchanges by creating a single access point for optimal trading. The platform emphasizes user experience, reliability, and efficiency, positioning itself as critical infrastructure for Solana's DeFi ecosystem rather than just another application.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Jupiter's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Jupiter's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
+    "hype": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Hype",
+  "title": "Hype Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/hype-hype-logo.svg",
+  "description": "Hype is a social token platform that allows creators and communities to launch their own tokens and build engaged tokenized economies.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Hype generates value by enabling creators and communities to tokenize their influence and engagement. The platform takes small fees from token transactions and launches. HYPE token holders benefit from governance rights, platform incentives, and exclusive features, creating a sustainable economy where value flows between creators, fans, and the wider ecosystem.",
+      "title": "Value Generation",
+      "heading": "How HYPE Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Hype is known for pioneering social tokens that allow creators and communities to launch their own cryptocurrencies. Its main innovation is making token creation accessible to non-technical users while providing tools for community engagement and monetization. The platform bridges the gap between social media and crypto, allowing influence and engagement to be captured in tokenized form.",
+      "title": "Market Position",
+      "heading": "What is HYPE Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Hype has established itself as a significant player in the intersection of social media and cryptocurrency. The platform hosts thousands of creator tokens with millions of users participating in these mini-economies. As social tokens gain traction as a new form of engagement between creators and their communities, Hype's position as an early innovator gives it substantial importance in this emerging sector.",
+      "title": "Project Size",
+      "heading": "How Significant is HYPE in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$6.10 billion",
+        "tradingVolume": "$124.30 million (24h)",
+        "circulatingSupply": "333.93 million HYPE",
+        "totalSupply": "999.99 million HYPE"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Hype is used globally by creators, influencers, and communities looking to deepen engagement with their audiences. The platform is particularly popular in entertainment, gaming, and content creation industries. By enabling tokenized economies around personal brands, Hype is changing how creators monetize their work and how fans participate in the success of those they support.",
+      "title": "Real World Impact",
+      "heading": "Where Does HYPE Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Hype was created by a team of entrepreneurs with backgrounds in social media, blockchain technology, and creator economy platforms. The project was launched in 2022 to bridge the gap between traditional social platforms and web3 technologies. The founding team recognized that while creators had many ways to monetize their content, they lacked tools to build true ownership economies with their communities.",
+      "title": "Founders",
+      "heading": "Who Created HYPE",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Hype solves the problem of limited monetization options for creators and passive participation for fans. Traditional platforms take large cuts from creator earnings while offering fans few ways to meaningfully participate. Hype's social token approach allows creators to launch their own mini-economies where fans can become active participants, sharing in the upside of a creator's growth while enjoying exclusive benefits.",
+      "title": "Problem Solving",
+      "heading": "What challenges does HYPE solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Creator Economy Focus",
+        "description": "Hype targets the rapidly growing creator economy with a unique tokenized approach. This positions it at the intersection of two powerful trends: creator monetization and cryptocurrency adoption."
+      },
+      {
+        "title": "User-Friendly Platform",
+        "description": "The platform makes creating and managing tokens accessible to non-technical users. This low barrier to entry enables broader adoption among creators who may not have blockchain expertise."
+      },
+      {
+        "title": "Network Effects",
+        "description": "Each new creator who joins Hype brings their audience, expanding the platform's reach. These network effects create a virtuous cycle where more creators attract more users, increasing the platform's overall value."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Market Education Challenge",
+        "description": "Many creators and their audiences still need education about cryptocurrency and tokenization concepts. This learning curve could slow adoption rates, particularly among less tech-savvy creators."
+      },
+      {
+        "title": "Token Volatility Concerns",
+        "description": "Creator tokens can be subject to significant price volatility, potentially creating negative experiences. This volatility might discourage some creators from adopting the platform."
+      },
+      {
+        "title": "Regulatory Uncertainty",
+        "description": "Social tokens occupy a gray area in many regulatory frameworks globally. Changes in regulations could impact how Hype operates and what features it can offer in different regions."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 89.7,
+    "earning": 76.4,
+    "fairValue": 68.3,
+    "safety": 74.9,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 89.7,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 76.4,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 68.3,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 74.9,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Hype's whitepaper outlines its vision for democratizing social tokens, enabling any creator or community to launch their own cryptocurrency without technical knowledge. The platform's core innovation is its all-in-one solution that handles token creation, distribution, and management through an intuitive interface. The HYPE token itself serves multiple purposes within the ecosystem: governance rights for protocol decisions, staking for premium features, and incentivizing participation. The whitepaper emphasizes how Hype solves the problem of limited monetization options for creators by enabling them to capture the value of their influence directly, while giving fans ways to support creators beyond passive consumption. The document describes a future where every significant creator or community has its own token economy, with Hype providing the infrastructure to make this possible for non-technical users.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Hype's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Hype's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
+    "render": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Render",
+  "title": "Render Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/render-render-logo.svg",
+  "description": "Render is a distributed GPU rendering network that connects artists and studios needing rendering power with people who have idle GPU capacity.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Render generates value by connecting those who need GPU rendering power with those who have idle GPU capacity. Artists and studios pay to use the network with RENDER tokens, while GPU providers earn tokens for sharing their computing resources. This creates a marketplace where both sides benefit: creators get affordable rendering power and GPU owners earn income from their hardware.",
+      "title": "Value Generation",
+      "heading": "How RENDER Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Render is known for democratizing access to high-performance GPU rendering. Its main innovation is creating a decentralized network that makes powerful rendering capabilities affordable for individual artists and small studios. By harnessing idle GPU power worldwide, Render offers an alternative to expensive in-house rendering farms or centralized cloud rendering services.",
+      "title": "Market Position",
+      "heading": "What is RENDER Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Render has grown into a significant platform in both the crypto and digital content creation worlds. Its network includes thousands of GPU providers across the globe, serving countless artists and studios. As 3D rendering demands increase with the growth of industries like gaming, virtual reality, and digital art, Render's importance as affordable, decentralized rendering infrastructure continues to expand.",
+      "title": "Project Size",
+      "heading": "How Significant is RENDER in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$2.26 billion",
+        "tradingVolume": "$98.22 million (24h)",
+        "circulatingSupply": "517.72 million RENDER",
+        "totalSupply": "532.48 million RENDER"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Render is used globally by 3D artists, animation studios, architectural visualization firms, and game developers. The platform has particular influence in creative industries where rendering costs can be a significant barrier. By making high-quality rendering more accessible, Render enables smaller studios and independent artists to create professional-quality work that previously required much larger budgets.",
+      "title": "Real World Impact",
+      "heading": "Where Does RENDER Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Render was founded by Jules Urbach, who is also the CEO of OTOY, a leading graphics technology company. The project was announced in 2017 and began development shortly after. Urbach, with his background in computer graphics and cloud rendering, recognized the inefficiency of traditional rendering solutions and envisioned a decentralized network that could make rendering more accessible and affordable.",
+      "title": "Founders",
+      "heading": "Who Created RENDER",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Render solves the problem of expensive and inaccessible 3D rendering. Traditionally, high-quality rendering required either massive investments in hardware or costly subscriptions to centralized cloud services. Render creates a peer-to-peer marketplace where anyone can access powerful rendering capabilities at affordable prices, while GPU owners can monetize their idle hardware.",
+      "title": "Problem Solving",
+      "heading": "What challenges does RENDER solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Real Utility",
+        "description": "Render addresses a genuine need in the digital content creation market. The demand for rendering power continues to grow as 3D content becomes more prevalent across industries."
+      },
+      {
+        "title": "Industry Partnerships",
+        "description": "The project has established partnerships with major players in the graphics and content creation space. These relationships provide credibility and pathways to mainstream adoption."
+      },
+      {
+        "title": "Dual-sided Network Effects",
+        "description": "As more GPU providers join, rendering becomes cheaper and more efficient, attracting more users. Conversely, more users create demand that attracts more providers, creating a virtuous cycle."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Technical Complexity",
+        "description": "Maintaining consistent rendering quality across a distributed network of diverse hardware is challenging. Technical issues could impact user experience and satisfaction."
+      },
+      {
+        "title": "Competition from Cloud Services",
+        "description": "Major cloud providers like AWS, Google Cloud, and Microsoft Azure offer rendering services with established reputations. These centralized competitors have substantial resources to compete on price and features."
+      },
+      {
+        "title": "Hardware Trends",
+        "description": "Changes in GPU technology and availability can impact the network's economics. Factors like crypto mining profitability and new GPU releases affect the supply side of Render's marketplace."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 78.6,
+    "earning": 72.3,
+    "fairValue": 67.1,
+    "safety": 81.4,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 78.6,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 72.3,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 67.1,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 81.4,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Render's whitepaper outlines a decentralized GPU rendering network that connects artists needing rendering power with those who have idle GPU capacity. The core innovation is a distributed rendering system that breaks complex rendering jobs into smaller tasks distributed across the network, with results verified for quality and accuracy. The RENDER token facilitates transactions between creators and GPU providers while also governing the network. The whitepaper explains how Render solves the problem of expensive rendering by creating a peer-to-peer marketplace that lowers costs for artists while allowing GPU owners to earn income from unused resources. The document emphasizes how this approach democratizes access to professional-quality rendering, enabling independent artists and small studios to compete with larger organizations that have more resources.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Render's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Render's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
+    "ondo": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Ondo Finance",
+  "title": "Ondo Finance Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/ondo-finance-ondo-logo.svg",
+  "description": "Ondo Finance is a platform that connects traditional finance with decentralized finance through tokenized securities and yield-generating products.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Ondo Finance generates value by bridging traditional finance and decentralized finance (DeFi). It creates tokenized financial products like USDY (a tokenized U.S. Treasury yield token) that provide real-world yields. Ondo earns fees from managing these products, while ONDO token holders benefit from governance rights, fee sharing, and staking incentives.",
+      "title": "Value Generation",
+      "heading": "How ONDO Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Ondo Finance is known for bringing real-world assets (RWAs) on-chain in a compliant manner. Its main innovation is creating tokenized securities that give crypto investors access to traditional financial yields. By bridging TradFi and DeFi, Ondo occupies a unique position in the market, offering regulated and transparent on-chain financial products backed by real-world assets.",
+      "title": "Market Position",
+      "heading": "What is ONDO Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Ondo Finance has established itself as a significant player in the growing tokenized real-world assets (RWA) sector. With hundreds of millions of dollars in tokenized products under management, it's among the larger RWA protocols. The project's importance stems from its role in bringing institutional-grade financial products to DeFi, helping to mature the crypto ecosystem beyond purely speculative assets.",
+      "title": "Project Size",
+      "heading": "How Significant is ONDO in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$2.72 billion",
+        "tradingVolume": "$126.87 million (24h)",
+        "circulatingSupply": "3.15 billion ONDO",
+        "totalSupply": "10 billion ONDO"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Ondo Finance has influence in both traditional finance and crypto sectors, particularly in the United States and other regions with developed financial markets. Its tokenized Treasury products provide a regulated bridge between traditional financial yields and crypto markets. By making traditional financial products more accessible and efficient through tokenization, Ondo is helping reshape how financial assets are structured and distributed.",
+      "title": "Real World Impact",
+      "heading": "Where Does ONDO Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Ondo Finance was founded by Nathan Allman in 2021. Allman has a background in traditional finance, having worked at Goldman Sachs before entering the crypto space. The founding team includes professionals with experience across traditional finance, blockchain technology, and regulatory compliance, bringing a unique perspective to bridging these worlds.",
+      "title": "Founders",
+      "heading": "Who Created ONDO",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Ondo Finance solves the problem of limited yield options in crypto that are both regulated and backed by real-world assets. Many DeFi yields come with high risk or regulatory concerns, while traditional finance investments are often inaccessible to crypto users. Ondo bridges this gap by tokenizing regulated financial products like U.S. Treasuries, bringing stable, compliant yields to the blockchain.",
+      "title": "Problem Solving",
+      "heading": "What challenges does ONDO solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Regulatory Compliance",
+        "description": "Ondo takes a compliance-first approach to tokenizing traditional financial assets. This regulatory focus reduces legal risks and positions the project for institutional adoption."
+      },
+      {
+        "title": "Real-World Asset Integration",
+        "description": "By tokenizing securities like U.S. Treasuries, Ondo offers genuine yield backed by traditional financial assets. This provides an alternative to the purely speculative or circular yields common in many DeFi protocols."
+      },
+      {
+        "title": "Institutional Appeal",
+        "description": "Ondo's products are designed to meet the standards expected by traditional financial institutions. This focus on institutional-grade offerings opens access to larger pools of capital than typical DeFi projects."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Regulatory Complexity",
+        "description": "Operating at the intersection of traditional finance and crypto involves navigating complex and evolving regulations. Changes in regulatory frameworks could impact Ondo's ability to offer certain products in some jurisdictions."
+      },
+      {
+        "title": "Centralization Concerns",
+        "description": "The need to comply with regulations means some aspects of Ondo's products are more centralized than pure DeFi protocols. This centralization creates potential points of failure that don't exist in fully decentralized systems."
+      },
+      {
+        "title": "Market Rate Competition",
+        "description": "Ondo's tokenized Treasury products offer yields that track traditional financial markets. During periods of high DeFi yields, these more conservative products might seem less attractive to yield-seeking crypto investors."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 79.8,
+    "earning": 83.2,
+    "fairValue": 76.5,
+    "safety": 88.7,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 79.8,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 83.2,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 76.5,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 88.7,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Ondo Finance's whitepaper outlines its vision for bringing traditional financial assets on-chain through compliant tokenization. The core innovation is a regulated framework for creating blockchain-based versions of established financial products like U.S. Treasuries. The ONDO token is designed to align incentives within the ecosystem through governance rights, staking, and fee sharing. The paper emphasizes how Ondo solves the problem of limited compliant yield options in crypto by creating a bridge between traditional finance and DeFi. By tokenizing well-understood and regulated financial products, Ondo aims to bring institutional capital into the blockchain space while giving crypto users access to stable, real-world yields. The document highlights Ondo's focus on regulatory compliance and institutional-grade offerings as key differentiators in the market.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Ondo Finance's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Ondo Finance's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
+    "tao": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Bittensor",
+  "title": "Bittensor Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/bittensor-tao-logo.svg",
+  "description": "Bittensor is a decentralized machine learning network that incentivizes the training and sharing of AI models through a blockchain-based marketplace.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Bittensor generates value by creating a marketplace for machine learning models and data. AI developers contribute their models to the network and are rewarded with TAO tokens based on their models' utility. This incentivizes the creation and improvement of AI systems, while TAO token holders benefit from the growing value of the network as AI development expands.",
+      "title": "Value Generation",
+      "heading": "How TAO Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Bittensor is known for pioneering a decentralized approach to artificial intelligence development. Its main innovation is creating a blockchain-based incentive system for machine learning, where valuable AI models are rewarded with TAO tokens. This aligns economic incentives with AI progress, potentially accelerating development while distributing benefits more widely than traditional AI research organizations.",
+      "title": "Market Position",
+      "heading": "What is TAO Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Bittensor has established itself as a significant player at the intersection of blockchain and artificial intelligence. The network includes thousands of validators running various machine learning models, collectively building a decentralized intelligence system. As both AI and crypto continue to evolve as transformative technologies, Bittensor's role in combining these fields positions it as an important project with potential long-term impact.",
+      "title": "Project Size",
+      "heading": "How Significant is TAO in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$2.81 billion",
+        "tradingVolume": "$206.37 million (24h)",
+        "circulatingSupply": "8.64 million TAO",
+        "totalSupply": "8.64 million TAO"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Bittensor's influence spans the global AI research and development community. The project enables more democratized access to AI development incentives, allowing talented researchers and developers worldwide to participate regardless of institutional affiliation. By creating a decentralized market for machine learning models, Bittensor is helping to distribute the economic benefits of AI advancement more widely than traditional research funding models.",
+      "title": "Real World Impact",
+      "heading": "Where Does TAO Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Bittensor was founded by Jacob Steeves and Ala Shaabana in 2021. Both founders have backgrounds in machine learning and blockchain technology. They envisioned a new paradigm for AI development that would align economic incentives with technological progress, using blockchain as the coordination mechanism for a global machine learning marketplace.",
+      "title": "Founders",
+      "heading": "Who Created TAO",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Bittensor solves the problem of centralized AI development and limited incentive structures for machine learning research. Traditional AI progress is concentrated in a few large companies and research institutions, limiting innovation and access. Bittensor creates an open marketplace where anyone can contribute AI models and be rewarded based on their utility, democratizing both development and economic benefits.",
+      "title": "Problem Solving",
+      "heading": "What challenges does TAO solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Novel Intersection of Technologies",
+        "description": "Bittensor uniquely combines two of the most transformative technologies: blockchain and artificial intelligence. This positions the project at the frontier of technological innovation with potential for significant growth."
+      },
+      {
+        "title": "Incentive Alignment",
+        "description": "The protocol's design aligns economic incentives with creating valuable AI models and services. This encourages positive-sum collaboration in an industry often dominated by competition and secrecy."
+      },
+      {
+        "title": "Decentralized AI Development",
+        "description": "By distributing AI development incentives globally, Bittensor taps into broader talent pools than traditional research organizations. This approach could potentially accelerate innovation through more diverse contributions."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Technical Complexity",
+        "description": "The intersection of blockchain and AI creates a highly complex system that can be difficult to understand and participate in. This complexity may limit adoption to technically sophisticated participants initially."
+      },
+      {
+        "title": "Incentive Gaming Risks",
+        "description": "Any system with financial rewards faces potential exploitation through incentive gaming. Ensuring that TAO rewards genuinely valuable AI contributions rather than superficial optimizations remains an ongoing challenge."
+      },
+      {
+        "title": "Competition from Centralized AI",
+        "description": "Large tech companies have significant advantages in AI development, including vast data resources and funding. Bittensor must demonstrate that its decentralized approach offers meaningful advantages to compete with these established players."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 86.3,
+    "earning": 71.9,
+    "fairValue": 73.2,
+    "safety": 82.1,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 86.3,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 71.9,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 73.2,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 82.1,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Bittensor's whitepaper outlines a decentralized machine learning network that incentivizes AI development through a blockchain-based reward system. The core innovation is a peer-to-peer network where machine learning models evaluate each other's outputs, with valuable contributions rewarded with TAO tokens. These tokens represent ownership in the network and voting power over its future development. The paper explains how Bittensor solves the problem of centralized AI development by creating an open marketplace where anyone can participate and be rewarded according to the value they contribute. This approach aims to distribute both the development of AI and its economic benefits more widely than traditional research models, potentially accelerating innovation while ensuring its benefits are shared broadly. The whitepaper presents a vision of decentralized intelligence that could evolve into a global, open-source AI system owned by its contributors.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Bittensor's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Bittensor's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
+    "virtuals": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Virtuals",
+  "title": "Virtuals Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/virtuals-virtual-logo.svg",
+  "description": "Virtuals is a protocol that enables the creation and trading of tokenized virtual assets in gaming, metaverse, and digital experiences.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Virtuals generates value by facilitating the tokenization of digital items and experiences. The platform takes small fees from transactions and creations on its network. VIRTUAL token holders benefit from governance rights, staking rewards, and fee sharing. As more digital items become tradable assets through the platform, the value and utility of the VIRTUAL token increases.",
+      "title": "Value Generation",
+      "heading": "How VIRTUAL Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Virtuals is known for creating a unified framework for virtual assets across different games and digital environments. Its main innovation is enabling interoperability between previously siloed virtual worlds, allowing digital items to maintain value across platforms. This approach helps both creators and users benefit from a more connected digital asset ecosystem.",
+      "title": "Market Position",
+      "heading": "What is VIRTUAL Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Virtuals has established itself as a growing player in the intersection of gaming, metaverse, and digital ownership. The platform supports thousands of virtual assets used by a community of gamers and digital asset enthusiasts. As digital ownership continues to gain importance in gaming and virtual worlds, Virtuals' position as an interoperability layer gives it significant potential in this expanding market.",
+      "title": "Project Size",
+      "heading": "How Significant is VIRTUAL in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$379.47 million",
+        "tradingVolume": "$75.67 million (24h)",
+        "circulatingSupply": "651.29 million VIRTUAL",
+        "totalSupply": "1 billion VIRTUAL"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Virtuals has influence primarily in the gaming and digital content creation industries globally. The protocol enables new business models for game developers and content creators by facilitating true digital ownership of in-game items and virtual experiences. By connecting previously isolated digital environments, Virtuals is helping shape how users interact with and derive value from their digital possessions.",
+      "title": "Real World Impact",
+      "heading": "Where Does VIRTUAL Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Virtuals was created by a team with backgrounds in gaming, blockchain technology, and digital asset trading. The project launched in 2023 to address the fragmentation in virtual asset ecosystems. The founding team recognized that while many games and platforms were implementing digital ownership through NFTs, these systems remained isolated from each other, limiting their potential value and utility.",
+      "title": "Founders",
+      "heading": "Who Created VIRTUAL",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Virtuals solves the problem of fragmented digital ownership across different gaming and metaverse platforms. Before Virtuals, virtual items were typically confined to a single game or environment, losing value when users moved to new platforms. Virtuals creates interoperability standards and protocols that allow digital assets to maintain their utility and value across different environments.",
+      "title": "Problem Solving",
+      "heading": "What challenges does VIRTUAL solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Interoperability Focus",
+        "description": "Virtuals' emphasis on connecting different virtual environments addresses a real pain point in the digital asset space. This interoperability approach sets it apart from more siloed virtual asset platforms."
+      },
+      {
+        "title": "Gaming Industry Alignment",
+        "description": "The protocol targets the rapidly growing gaming market, where digital ownership is increasingly important. This alignment with gaming trends positions Virtuals for potential growth as more games adopt digital ownership models."
+      },
+      {
+        "title": "Multiple Revenue Streams",
+        "description": "Virtuals generates fees from various activities including asset creation, trading, and platform integration. This diversified approach to value capture creates multiple paths to revenue growth."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Platform Adoption Challenges",
+        "description": "Success depends on convincing multiple game developers and platforms to integrate with Virtuals. This adoption hurdle requires significant business development efforts and may slow growth initially."
+      },
+      {
+        "title": "Metaverse Uncertainty",
+        "description": "The broader metaverse concept is still evolving, with uncertain timelines for mainstream adoption. Virtuals' long-term potential is partially tied to how quickly interconnected virtual worlds develop."
+      },
+      {
+        "title": "Competition from Established Platforms",
+        "description": "Major gaming platforms and companies are developing their own digital asset systems. These established players have existing user bases and resources that could challenge Virtuals' growth."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 75.3,
+    "earning": 63.8,
+    "fairValue": 69.4,
+    "safety": 77.2,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 75.3,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 63.8,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 69.4,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 77.2,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Virtuals' whitepaper outlines a protocol for creating interoperable virtual assets that can move between different gaming and metaverse platforms. The core innovation is a standardized framework that allows digital items to maintain their properties, utility, and value across environments. The VIRTUAL token serves multiple purposes: governance rights for protocol decisions, staking for validator operations, and transaction fees within the ecosystem. The paper explains how Virtuals solves the problem of fragmented digital ownership by creating bridges between previously isolated virtual worlds. This approach benefits both creators, who can reach wider markets, and users, who gain greater flexibility and lasting value from their digital possessions. The whitepaper envisions a future where digital ownership becomes more meaningful through interoperability, creating a connected ecosystem of virtual assets rather than isolated collections.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Virtuals' growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Virtuals' percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
     "aero": {
       "id": "placeholder-project-id",
       "coinId": "placeholder-coin-id",
