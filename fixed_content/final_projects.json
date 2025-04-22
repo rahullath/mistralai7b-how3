@@ -217,33 +217,33 @@
     ]
   },
   "benchmarkScores": {
-    "growth": 85.5,
-    "earning": 70.2,
-    "fairValue": 75.8,
-    "safety": 95.5,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 85.5,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 70.2,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 75.8,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 95.5,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+  "growth": 73.61458333,
+  "earning": 72.3670296,
+  "fairValue": 53.1483871,
+  "safety": 96.87,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 73.61458333,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 72.3670296,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 53.1483871,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 96.87,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Bitcoin's whitepaper, titled \"Bitcoin: A Peer-to-Peer Electronic Cash System,\" outlines a revolutionary digital currency that operates without central authority. The document explains how Bitcoin's blockchain technology solves the double-spending problem through a proof-of-work consensus mechanism and timestamped transaction blocks. It introduces mining as the process for transaction verification and new coin issuance, with a built-in halving schedule that ensures scarcity. The paper emphasizes Bitcoin's trustless nature, where transactions are verified by network nodes and recorded on a public ledger, eliminating the need for financial intermediaries. This relatively short but profound document laid the groundwork for not just Bitcoin but the entire cryptocurrency industry.",
     "lastUpdated": "2025-04-22",
@@ -343,34 +343,34 @@
       }
     ]
   },
-  "benchmarkScores": {
-    "growth": 82.4,
-    "earning": 68.9,
-    "fairValue": 71.2,
-    "safety": 83.5,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 82.4,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 68.9,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 71.2,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 83.5,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+ "benchmarkScores": {
+  "growth": 95.40229885,
+  "earning": 74,
+  "fairValue": 80,
+  "safety": 89.26,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 95.40229885,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 74,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 80,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 89.26,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Jupiter's documentation outlines its mission to provide the best swap experience on Solana by aggregating liquidity from all major exchanges and automatically finding the most efficient trading routes. The project focuses on three core offerings: a user-friendly swap interface, powerful APIs for developers, and essential infrastructure for the Solana ecosystem. The JUP token serves as both a governance token and utility token within the ecosystem, allowing holders to vote on protocol decisions and access premium features. Jupiter solves the problem of fragmented liquidity in decentralized exchanges by creating a single access point for optimal trading. The platform emphasizes user experience, reliability, and efficiency, positioning itself as critical infrastructure for Solana's DeFi ecosystem rather than just another application.",
     "lastUpdated": "2025-04-22",
@@ -470,34 +470,34 @@
       }
     ]
   },
-  "benchmarkScores": {
-    "growth": 89.7,
-    "earning": 76.4,
-    "fairValue": 68.3,
-    "safety": 74.9,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 89.7,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 76.4,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 68.3,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 74.9,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+"benchmarkScores": {
+  "growth": 36.92307692,
+  "earning": 66,
+  "fairValue": 80,
+  "safety": 82.06,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 36.92307692,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 66,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 80,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 82.06,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Hype's whitepaper outlines its vision for democratizing social tokens, enabling any creator or community to launch their own cryptocurrency without technical knowledge. The platform's core innovation is its all-in-one solution that handles token creation, distribution, and management through an intuitive interface. The HYPE token itself serves multiple purposes within the ecosystem: governance rights for protocol decisions, staking for premium features, and incentivizing participation. The whitepaper emphasizes how Hype solves the problem of limited monetization options for creators by enabling them to capture the value of their influence directly, while giving fans ways to support creators beyond passive consumption. The document describes a future where every significant creator or community has its own token economy, with Hype providing the infrastructure to make this possible for non-technical users.",
     "lastUpdated": "2025-04-22",
@@ -598,33 +598,33 @@
     ]
   },
   "benchmarkScores": {
-    "growth": 78.6,
-    "earning": 72.3,
-    "fairValue": 67.1,
-    "safety": 81.4,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 78.6,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 72.3,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 67.1,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 81.4,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+  "growth": 91.69693825,
+  "earning": 80,
+  "fairValue": 56,
+  "safety": 86.28,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 91.69693825,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 80,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 56,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 86.28,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Render's whitepaper outlines a decentralized GPU rendering network that connects artists needing rendering power with those who have idle GPU capacity. The core innovation is a distributed rendering system that breaks complex rendering jobs into smaller tasks distributed across the network, with results verified for quality and accuracy. The RENDER token facilitates transactions between creators and GPU providers while also governing the network. The whitepaper explains how Render solves the problem of expensive rendering by creating a peer-to-peer marketplace that lowers costs for artists while allowing GPU owners to earn income from unused resources. The document emphasizes how this approach democratizes access to professional-quality rendering, enabling independent artists and small studios to compete with larger organizations that have more resources.",
     "lastUpdated": "2025-04-22",
@@ -724,34 +724,34 @@
       }
     ]
   },
-  "benchmarkScores": {
-    "growth": 79.8,
-    "earning": 83.2,
-    "fairValue": 76.5,
-    "safety": 88.7,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 79.8,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 83.2,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 76.5,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 88.7,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+ "benchmarkScores": {
+  "growth": 100,
+  "earning": 76,
+  "fairValue": 55,
+  "safety": 87.5,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 100,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 76,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 55,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 87.5,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Ondo Finance's whitepaper outlines its vision for bringing traditional financial assets on-chain through compliant tokenization. The core innovation is a regulated framework for creating blockchain-based versions of established financial products like U.S. Treasuries. The ONDO token is designed to align incentives within the ecosystem through governance rights, staking, and fee sharing. The paper emphasizes how Ondo solves the problem of limited compliant yield options in crypto by creating a bridge between traditional finance and DeFi. By tokenizing well-understood and regulated financial products, Ondo aims to bring institutional capital into the blockchain space while giving crypto users access to stable, real-world yields. The document highlights Ondo's focus on regulatory compliance and institutional-grade offerings as key differentiators in the market.",
     "lastUpdated": "2025-04-22",
@@ -851,34 +851,34 @@
       }
     ]
   },
-  "benchmarkScores": {
-    "growth": 86.3,
-    "earning": 71.9,
-    "fairValue": 73.2,
-    "safety": 82.1,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 86.3,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 71.9,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 73.2,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 82.1,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+ "benchmarkScores": {
+  "growth": 55,
+  "earning": 72,
+  "fairValue": 55,
+  "safety": 74.18,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 55,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 72,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 55,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 74.18,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Bittensor's whitepaper outlines a decentralized machine learning network that incentivizes AI development through a blockchain-based reward system. The core innovation is a peer-to-peer network where machine learning models evaluate each other's outputs, with valuable contributions rewarded with TAO tokens. These tokens represent ownership in the network and voting power over its future development. The paper explains how Bittensor solves the problem of centralized AI development by creating an open marketplace where anyone can participate and be rewarded according to the value they contribute. This approach aims to distribute both the development of AI and its economic benefits more widely than traditional research models, potentially accelerating innovation while ensuring its benefits are shared broadly. The whitepaper presents a vision of decentralized intelligence that could evolve into a global, open-source AI system owned by its contributors.",
     "lastUpdated": "2025-04-22",
@@ -978,34 +978,34 @@
       }
     ]
   },
-  "benchmarkScores": {
-    "growth": 75.3,
-    "earning": 63.8,
-    "fairValue": 69.4,
-    "safety": 77.2,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 75.3,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 63.8,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 69.4,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 77.2,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+"benchmarkScores": {
+  "growth": 91.4893617,
+  "earning": 52,
+  "fairValue": 25,
+  "safety": 80.9,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 91.4893617,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 52,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 25,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 80.9,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "Virtuals' whitepaper outlines a protocol for creating interoperable virtual assets that can move between different gaming and metaverse platforms. The core innovation is a standardized framework that allows digital items to maintain their properties, utility, and value across environments. The VIRTUAL token serves multiple purposes: governance rights for protocol decisions, staking for validator operations, and transaction fees within the ecosystem. The paper explains how Virtuals solves the problem of fragmented digital ownership by creating bridges between previously isolated virtual worlds. This approach benefits both creators, who can reach wider markets, and users, who gain greater flexibility and lasting value from their digital possessions. The whitepaper envisions a future where digital ownership becomes more meaningful through interoperability, creating a connected ecosystem of virtual assets rather than isolated collections.",
     "lastUpdated": "2025-04-22",
@@ -1105,34 +1105,34 @@
       }
     ]
   },
-  "benchmarkScores": {
-    "growth": 55.0,
-    "earning": 70.0,
-    "fairValue": 57.0,
-    "safety": 94.7,
-    "barData": [
-      {
-        "label": "User Growth",
-        "value": 55.0,
-        "color": "#4CAF50"
-      },
-      {
-        "label": "Earnings Quality",
-        "value": 70.0,
-        "color": "#2196F3"
-      },
-      {
-        "label": "Fair Value",
-        "value": 57.0,
-        "color": "#FFC107"
-      },
-      {
-        "label": "Safety Score",
-        "value": 94.7,
-        "color": "#9C27B0"
-      }
-    ]
-  },
+"benchmarkScores": {
+  "growth": 71,
+  "earning": 70,
+  "fairValue": 57,
+  "safety": 94.7,
+  "barData": [
+    {
+      "label": "User Growth",
+      "value": 71,
+      "color": "#4CAF50"
+    },
+    {
+      "label": "Earnings Quality",
+      "value": 70,
+      "color": "#2196F3"
+    },
+    {
+      "label": "Fair Value",
+      "value": 57,
+      "color": "#FFC107"
+    },
+    {
+      "label": "Safety Score",
+      "value": 94.7,
+      "color": "#9C27B0"
+    }
+  ]
+},
   "whitepaper": {
     "summary": "The Open Network's whitepaper describes a multi-blockchain platform designed for speed, scalability, and ease of use. The core innovation is its ability to automatically split and merge blockchains (sharding) as network load changes, theoretically enabling millions of transactions per second. TON includes a complete ecosystem with storage, domain name services, and payment channels beyond just the base blockchain. The TON coin serves as the network's native currency for fees, staking, and governance. The whitepaper emphasizes how TON solves blockchain scalability limitations that prevent mass adoption, using a unique architecture that can grow with demand while maintaining security and decentralization. The document outlines a vision for a user-friendly blockchain platform that could serve mainstream users through applications like Telegram.",
     "lastUpdated": "2025-04-22",
