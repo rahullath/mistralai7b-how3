@@ -4,7 +4,7 @@
   "name": "PancakeSwap",
   "title": "PancakeSwap Analysis for how3.io",
   "logo": "https://cryptologos.cc/logos/pancakeswap-cake-logo.svg",
-  "description": "PancakeSwap is a cryptocurrency project in the PancakeSwap is best known as a leading decentraliz...",
+  "description": "PancakeSwap helps you swap one cryptocurrency for another directly, without needing a middleman like a traditional exchange.",
   "assetOverview": {
     "valueGeneration": {
       "description": "PancakeSwap helps you swap one cryptocurrency for another directly, without needing a middleman like a traditional exchange. It makes money by charging small fees on these swaps. These fees are then used to reward people who provide liquidity (essentially, the funds needed for these swaps to happen) and to buy back and burn CAKE tokens, potentially increasing their value over time.",
