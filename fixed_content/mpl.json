@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Maple Finance",
+  "title": "Maple Finance Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/maple-finance-mpl-logo.svg",
+  "description": "Maple Finance is a cryptocurrency project in the Maple Finance is known for bringing institutional ...",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Maple Finance helps people earn interest on their crypto by lending it out. Think of it like a digital bank, but instead of a bank managing the loans, it's done automatically by computer code. Maple Finance makes money by taking a small cut of the interest earned on these loans. Token holders can also earn rewards by participating in the platform's governance and staking MPL.",
+      "title": "Value Generation",
+      "heading": "How MPL Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Maple Finance is known for bringing institutional lending to the world of crypto. It's like a bridge connecting traditional finance with the new world of decentralized finance (DeFi). The main innovation is allowing institutions to borrow crypto without needing to put up as much collateral as they would on other platforms, making it easier for them to access crypto capital. This is achieved through a pool system managed by experienced credit experts.",
+      "title": "Market Position",
+      "heading": "What is MPL Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Maple Finance is a significant player in the crypto lending space. While its ranking can fluctuate, it consistently ranks among the top lending protocols. It's gained traction with institutions and crypto businesses looking for ways to borrow and lend crypto assets. This adoption helps to increase the overall liquidity and efficiency of the crypto market.",
+      "title": "Project Size",
+      "heading": "How Significant is MPL in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$0.07 billion",
+        "tradingVolume": "$1.19 million (24h)",
+        "circulatingSupply": "4.42 million MPL",
+        "totalSupply": "10.00 million MPL"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Maple Finance is used globally, with a focus on serving crypto-native businesses and institutional investors. It's particularly popular in regions with strong crypto adoption and a need for efficient lending solutions. By providing access to capital, Maple Finance helps these businesses grow and innovate within the crypto industry, fostering further development and adoption.",
+      "title": "Real World Impact",
+      "heading": "Where Does MPL Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Maple Finance was founded in 2021 by Sidney Powell and Joe Flanagan. Sidney Powell has a background in traditional finance, specifically institutional lending. Joe Flanagan brings expertise in blockchain technology and software development. Together, they combined their skills to create a platform that bridges the gap between traditional finance and the crypto world.",
+      "title": "Founders",
+      "heading": "Who Created MPL",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Maple Finance solves the problem of inefficient and often over-collateralized lending in the crypto space. Traditional crypto lending often requires borrowers to put up significantly more collateral than the loan amount. Maple Finance allows for under-collateralized lending to trusted institutions, making it easier for them to access capital and grow their businesses. This is important because it unlocks more capital for innovation and growth within the crypto ecosystem.",
+      "title": "Problem Solving",
+      "heading": "What challenges does MPL solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Institutional Focus",
+        "description": "Maple Finance caters to institutional borrowers, bringing a level of professionalism and stability to the DeFi lending space. This focus helps attract larger capital flows and fosters trust in the platform."
+      },
+      {
+        "title": "Under-Collateralized Loans",
+        "description": "By offering under-collateralized loans to vetted institutions, Maple Finance unlocks capital efficiency. This allows borrowers to access more funds without tying up excessive collateral."
+      },
+      {
+        "title": "Experienced Pool Delegates",
+        "description": "The platform uses experienced credit experts to manage lending pools. This helps to mitigate risk and ensure responsible lending practices."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Centralization Risk",
+        "description": "While decentralized, the reliance on pool delegates introduces a degree of centralization. The performance and decisions of these delegates significantly impact the platform's success."
+      },
+      {
+        "title": "Regulatory Uncertainty",
+        "description": "The regulatory landscape for DeFi lending is still evolving. Changes in regulations could impact Maple Finance's operations and compliance."
+      },
+      {
+        "title": "Credit Risk",
+        "description": "Despite vetting processes, there's always a risk of borrowers defaulting on their loans. This could lead to losses for lenders and impact the platform's reputation."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 63.62573099,
+    "earning": 54.32192715,
+    "fairValue": 56.83035714,
+    "safety": 92.39,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 63.62573099,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 54.32192715,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 56.83035714,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 92.39,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "Maple Finance aims to revolutionize crypto lending by creating a decentralized platform that connects borrowers and lenders efficiently. The core idea is to provide under-collateralized loans to reputable institutions, unlocking capital and fostering growth within the crypto ecosystem. The platform uses a pool system managed by experienced credit experts, who assess borrowers and manage risk. The MPL token is used for governance, allowing token holders to participate in decision-making and earn rewards. By solving the problem of over-collateralization and inefficient lending, Maple Finance seeks to bridge the gap between traditional finance and DeFi, making crypto capital more accessible and productive for businesses. The whitepaper details the mechanics of the lending pools, the role of pool delegates, and the governance structure of the platform, emphasizing transparency and security.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Maple Finance's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Maple Finance's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}

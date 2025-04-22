@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "NEAR Protocol",
+  "title": "NEAR Protocol Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/near-protocol-near-logo.svg",
+  "description": "NEAR Protocol is a cryptocurrency project in the NEAR Protocol is known for being a user-friendly b...",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "NEAR Protocol helps people build and use apps on its platform. It's like a digital marketplace where developers can create and offer their services. NEAR makes money by charging small fees for these transactions. Token holders can also earn rewards by helping to secure the network, similar to earning interest in a traditional bank.",
+      "title": "Value Generation",
+      "heading": "How NEAR Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "NEAR Protocol is known for being a user-friendly blockchain that's easy for developers to build on. Its main innovation is its focus on making blockchain technology accessible to everyone, not just tech experts. It aims to be a platform where everyday people can easily use and interact with decentralized applications (dApps). This focus on usability sets it apart from some other blockchains.",
+      "title": "Market Position",
+      "heading": "What is NEAR Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "NEAR Protocol is a significant player in the crypto world. It's ranked among the top cryptocurrencies by market capitalization, meaning it has a large total value. Many developers are building on NEAR, and its technology is being used by a growing number of users. This indicates increasing adoption and importance within the blockchain ecosystem.",
+      "title": "Project Size",
+      "heading": "How Significant is NEAR in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$2.63 billion",
+        "tradingVolume": "$110.41 million (24h)",
+        "circulatingSupply": "1206.85 million NEAR",
+        "totalSupply": "1245.90 million NEAR"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "NEAR Protocol is being used globally, with a strong presence in regions with growing tech sectors. It's finding applications in areas like decentralized finance (DeFi), gaming, and social media. Its influence is growing as more projects and businesses explore blockchain solutions for various industries.",
+      "title": "Real World Impact",
+      "heading": "Where Does NEAR Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "NEAR Protocol was founded in 2018 by Alexander Skidanov and Illia Polosukhin. Alexander has a background in computer science and previously worked at Microsoft. Illia also has a strong technical background, with experience at Google. Their combined expertise in software development and distributed systems led to the creation of NEAR Protocol.",
+      "title": "Founders",
+      "heading": "Who Created NEAR",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "NEAR Protocol aims to solve the problem of blockchain complexity and inaccessibility. Many blockchains are difficult for developers to build on and for users to interact with. NEAR simplifies the process, making it easier for developers to create user-friendly applications and for everyday people to participate in the decentralized web.",
+      "title": "Problem Solving",
+      "heading": "What challenges does NEAR solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "User-Friendly Design",
+        "description": "NEAR Protocol prioritizes ease of use for both developers and users. This makes it more accessible than some other blockchains."
+      },
+      {
+        "title": "Scalability",
+        "description": "NEAR Protocol is designed to handle a large number of transactions quickly and efficiently. This is crucial for supporting popular applications."
+      },
+      {
+        "title": "Developer Support",
+        "description": "NEAR offers strong support and resources for developers building on its platform. This encourages innovation and growth within the ecosystem."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Competition",
+        "description": "The blockchain space is crowded, with many competing platforms. NEAR needs to continuously innovate to stay ahead."
+      },
+      {
+        "title": "Centralization Concerns",
+        "description": "While decentralized, some aspects of NEAR's initial development were more centralized. The community needs to ensure continued decentralization."
+      },
+      {
+        "title": "Adoption Hurdles",
+        "description": "Despite its user-friendly design, widespread adoption of blockchain technology still faces challenges. NEAR needs to overcome these hurdles to reach its full potential."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 34.00568182,
+    "earning": 45.60837441,
+    "fairValue": 49.32692308,
+    "safety": 90.96,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 34.00568182,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 45.60837441,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 49.32692308,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 90.96,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The NEAR Protocol whitepaper outlines a blockchain platform designed for usability and scalability. Its core idea is to create a developer-friendly environment that allows for the easy creation of decentralized applications (dApps). NEAR innovates with its sharding technology, which allows the network to process transactions more efficiently. The NEAR token is used for transaction fees, staking, and governance, giving token holders a say in the network's future. The whitepaper emphasizes solving the problem of blockchain complexity, making it easier for developers to build and users to interact with decentralized technologies. By focusing on user experience and developer support, NEAR aims to bring blockchain technology to a wider audience and foster a more accessible and inclusive decentralized web.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare NEAR Protocol's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show NEAR Protocol's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}

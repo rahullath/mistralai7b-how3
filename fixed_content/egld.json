@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "MultiversX",
+  "title": "MultiversX Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/multiversx-egld-logo.svg",
+  "description": "MultiversX is a cryptocurrency project in the MultiversX is known for its focus on speed and sca...",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "MultiversX helps people build and use apps and services directly on its platform. It's like a digital marketplace where developers can create and users can access various applications. The EGLD token is used to pay for transactions and services on the network, and holders can also earn rewards by helping to secure the network, similar to earning interest in a bank. This creates value for both developers and users within the MultiversX ecosystem.",
+      "title": "Value Generation",
+      "heading": "How EGLD Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "MultiversX is known for its focus on speed and scalability. Think of it as a super-fast highway for digital transactions. Its main innovation is \"adaptive state sharding,\" which essentially breaks the network into smaller, more manageable pieces that can process transactions simultaneously. This allows MultiversX to handle a large number of transactions quickly and efficiently, making it suitable for applications that require high performance.",
+      "title": "Market Position",
+      "heading": "What is EGLD Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "MultiversX is a significant player in the crypto world. It's ranked among the top cryptocurrencies by market capitalization, meaning it's one of the most valuable digital assets. It has a growing community of developers and users, and its technology is being explored for various applications, indicating increasing adoption and recognition within the broader crypto ecosystem.",
+      "title": "Project Size",
+      "heading": "How Significant is EGLD in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$0.40 billion",
+        "tradingVolume": "$12.01 million (24h)",
+        "circulatingSupply": "28.14 million EGLD",
+        "totalSupply": "28.15 million EGLD"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "MultiversX is being used in various regions and industries. It's gaining traction in areas like decentralized finance (DeFi), non-fungible tokens (NFTs), and supply chain management. For example, businesses are exploring using MultiversX to track products, manage digital identities, and create new financial services, potentially impacting how we interact with technology and commerce.",
+      "title": "Real World Impact",
+      "heading": "Where Does EGLD Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "MultiversX was founded in 2017 by Beniamin Mincu, Lucian Todea, and Lucian Mincu. Beniamin Mincu has a background in blockchain and technology entrepreneurship. Lucian Todea brings expertise in technology and business development, while Lucian Mincu contributes his knowledge in computer science and blockchain. Together, they aimed to create a more scalable and efficient blockchain platform.",
+      "title": "Founders",
+      "heading": "Who Created EGLD",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "MultiversX solves the problem of slow and expensive transactions on traditional blockchains. Many older blockchains struggle to handle a large number of transactions simultaneously, leading to delays and high fees. MultiversX addresses this by using its sharding technology to process transactions in parallel, making it faster and more affordable for users and developers. This is crucial for the widespread adoption of blockchain technology.",
+      "title": "Problem Solving",
+      "heading": "What challenges does EGLD solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "High Scalability",
+        "description": "MultiversX can handle a large number of transactions quickly and efficiently. This makes it suitable for applications that require high performance and low fees."
+      },
+      {
+        "title": "Strong Community",
+        "description": "MultiversX has a growing and active community of developers and users. This provides support and contributes to the ongoing development and adoption of the platform."
+      },
+      {
+        "title": "Innovative Technology",
+        "description": "The adaptive state sharding technology is a unique and effective solution to the scalability problem. This gives MultiversX a competitive edge in the blockchain space."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Competition",
+        "description": "The blockchain space is highly competitive, with many other projects vying for market share. MultiversX needs to continue innovating and differentiating itself to stay ahead."
+      },
+      {
+        "title": "Complexity",
+        "description": "While aiming for simplicity, the underlying technology is still complex. This can make it challenging for new users and developers to fully understand and utilize the platform."
+      },
+      {
+        "title": "Adoption Hurdles",
+        "description": "Widespread adoption of any new technology takes time and effort. MultiversX needs to continue building partnerships and use cases to drive adoption."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 52.53787879,
+    "earning": 30.99086042,
+    "fairValue": 53.08238636,
+    "safety": 83.43,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 52.53787879,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 30.99086042,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 53.08238636,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 83.43,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The MultiversX whitepaper outlines a new blockchain architecture designed to address the limitations of existing platforms, particularly scalability. The core innovation is adaptive state sharding, which dynamically divides the network into smaller shards that can process transactions in parallel. This allows MultiversX to achieve significantly higher transaction throughput and lower latency compared to traditional blockchains. The EGLD token is used for transaction fees, staking (securing the network), and governance (participating in decisions about the future of the network). The whitepaper emphasizes the need for a highly scalable and efficient blockchain to support a wide range of decentralized applications and drive the adoption of blockchain technology in various industries. By solving the scalability problem, MultiversX aims to create a more accessible and user-friendly blockchain ecosystem.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare MultiversX's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show MultiversX's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}

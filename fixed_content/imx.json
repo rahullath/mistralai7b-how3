@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "Immutable X",
+  "title": "Immutable X Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/immutable-x-imx-logo.svg",
+  "description": "Immutable X is a cryptocurrency project in the Immutable X is best known for making NFT trading o...",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "Immutable X helps people trade and use NFTs (unique digital items) more easily. It makes money by charging small fees on these NFT trades. These fees are then used to support the platform and can potentially benefit IMX token holders through staking rewards or other mechanisms, creating value for those who hold the token.",
+      "title": "Value Generation",
+      "heading": "How IMX Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "Immutable X is best known for making NFT trading on Ethereum much faster and cheaper. It's like a special lane on the Ethereum highway specifically for NFTs. Its main innovation is using a technology called \"zk-rollups\" to bundle many NFT transactions together, reducing gas fees and speeding up the process. This makes it easier and more affordable for everyone to buy, sell, and use NFTs.",
+      "title": "Market Position",
+      "heading": "What is IMX Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "Immutable X is a significant player in the NFT space. While its market rank fluctuates, it's consistently among the top projects focused on scaling NFTs. Many popular NFT games and marketplaces have chosen to build on Immutable X because of its low fees and fast transaction speeds, demonstrating its growing adoption within the crypto community.",
+      "title": "Project Size",
+      "heading": "How Significant is IMX in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$0.87 billion",
+        "tradingVolume": "$54.28 million (24h)",
+        "circulatingSupply": "1817.35 million IMX",
+        "totalSupply": "2000.00 million IMX"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "Immutable X is primarily used by NFT projects, game developers, and collectors around the world. It's particularly popular in the gaming industry, where it enables the creation and trading of in-game NFT assets. Its influence is growing as more creators and businesses look for ways to bring NFTs to a wider audience without the high costs associated with traditional Ethereum transactions.",
+      "title": "Real World Impact",
+      "heading": "Where Does IMX Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "Immutable X was created by James Ferguson, Robbie Ferguson, and Alex Connolly, launching around 2018. The Ferguson brothers have a background in e-commerce and software development, while Connolly brings expertise in blockchain technology. Their combined experience led them to identify the need for a more scalable and user-friendly NFT platform.",
+      "title": "Founders",
+      "heading": "Who Created IMX",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "Immutable X solves the problem of high gas fees and slow transaction speeds on the Ethereum blockchain, which makes trading NFTs expensive and frustrating. By providing a faster and cheaper alternative, it makes NFTs more accessible to a broader audience. This is important because it allows creators and collectors to participate in the NFT market without being priced out.",
+      "title": "Problem Solving",
+      "heading": "What challenges does IMX solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Low Fees",
+        "description": "Immutable X significantly reduces gas fees compared to trading NFTs directly on Ethereum. This makes buying, selling, and using NFTs much more affordable."
+      },
+      {
+        "title": "Fast Transactions",
+        "description": "Transactions on Immutable X are processed much faster than on the main Ethereum network. This provides a smoother and more responsive user experience."
+      },
+      {
+        "title": "Ethereum Security",
+        "description": "While faster and cheaper, Immutable X still benefits from the security of the Ethereum blockchain. This provides users with confidence in the safety of their assets."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Centralization Concerns",
+        "description": "While decentralized, Immutable X relies on a centralized sequencer to process transactions. This raises some concerns about potential censorship or single points of failure."
+      },
+      {
+        "title": "Limited Ecosystem",
+        "description": "While growing, the ecosystem of projects built on Immutable X is still smaller compared to Ethereum. This means fewer options for users compared to the broader Ethereum NFT space."
+      },
+      {
+        "title": "Token Utility",
+        "description": "The utility of the IMX token could be clearer. While staking and governance are planned, the current benefits for token holders are not as robust as some other projects."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 90.02038226,
+    "earning": 62.73696332,
+    "fairValue": 92.61538462,
+    "safety": 90.06,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 90.02038226,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 62.73696332,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 92.61538462,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 90.06,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The Immutable X whitepaper outlines a solution to the scalability issues plaguing the NFT market on Ethereum. The core idea is to use zk-rollups, a type of Layer 2 scaling solution, to bundle thousands of NFT transactions into a single Ethereum transaction. This dramatically reduces gas fees and increases transaction speed. The IMX token is intended to be used for staking, governance, and paying transaction fees on the platform. By solving the problems of high costs and slow speeds, Immutable X aims to make NFTs more accessible and practical for a wider range of applications, from gaming to digital art, ultimately fostering a more vibrant and inclusive NFT ecosystem. The whitepaper emphasizes the importance of maintaining Ethereum's security while providing a significantly improved user experience for NFT traders and creators.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare Immutable X's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Immutable X's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}

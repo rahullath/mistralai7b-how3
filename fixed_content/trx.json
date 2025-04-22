@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "TRON",
+  "title": "TRON Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/tron-trx-logo.svg",
+  "description": "TRON is a cryptocurrency project in the TRON is best known for its focus on entertainment ...",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "TRON helps content creators and users connect directly, cutting out middlemen. Think of it like YouTube, but creators get paid directly in crypto (TRX) for their work, and users can support them easily. This direct connection means more money for creators and potentially lower costs for users, making it a win-win. TRON also generates value through transaction fees on its network.",
+      "title": "Value Generation",
+      "heading": "How TRX Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "TRON is best known for its focus on entertainment and content sharing. It aims to be a decentralized platform where creators have more control over their content and earnings. Its main innovation was to create a blockchain specifically designed for high-throughput transactions, making it suitable for handling a large volume of content and user interactions. This focus on speed and affordability has attracted a significant user base.",
+      "title": "Market Position",
+      "heading": "What is TRX Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "TRON is a significant player in the crypto world, consistently ranking among the top cryptocurrencies by market capitalization. It boasts a large and active community, with millions of users worldwide. Its widespread adoption is evident in the number of decentralized applications (dApps) built on the TRON network, showcasing its importance as a foundational blockchain.",
+      "title": "Project Size",
+      "heading": "How Significant is TRX in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$23.06 billion",
+        "tradingVolume": "$366.63 million (24h)",
+        "circulatingSupply": "94948.87 million TRX",
+        "totalSupply": "94948.86 million TRX"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "TRON is used globally, with a strong presence in Asia and other regions where digital content consumption is high. It's used by content creators, gamers, and developers building decentralized applications. Its influence is seen in the growing number of platforms and services integrating TRX for payments and rewards, demonstrating its real-world utility.",
+      "title": "Real World Impact",
+      "heading": "Where Does TRX Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "TRON was founded by Justin Sun in 2017. Sun is a controversial figure in the crypto space, known for his marketing skills and ambition. Before TRON, he founded Peiwo, a popular social media app in China. His vision was to create a decentralized internet where content creators are empowered.",
+      "title": "Founders",
+      "heading": "Who Created TRX",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "TRON solves the problem of centralized control over digital content and the unfair distribution of revenue. Traditional platforms often take a large cut of creators' earnings, leaving them with less. TRON aims to give creators more control and a larger share of the revenue they generate, making the digital content ecosystem fairer and more transparent.",
+      "title": "Problem Solving",
+      "heading": "What challenges does TRX solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "High Throughput",
+        "description": "TRON can handle a large number of transactions quickly and efficiently. This makes it suitable for applications that require fast processing, like online games and content sharing platforms."
+      },
+      {
+        "title": "Low Transaction Fees",
+        "description": "TRON's transaction fees are generally low compared to other blockchains. This makes it an attractive option for users who want to send and receive TRX without incurring high costs."
+      },
+      {
+        "title": "Active Community",
+        "description": "TRON has a large and engaged community of developers and users. This provides a strong foundation for the continued growth and development of the TRON ecosystem."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Centralization Concerns",
+        "description": "Despite being a decentralized platform, some critics argue that TRON is more centralized than other blockchains. This is due to the number of Super Representatives who control the network."
+      },
+      {
+        "title": "Controversy Surrounding Founder",
+        "description": "Justin Sun's marketing tactics and past controversies have raised concerns among some investors. This can impact the project's reputation and long-term viability."
+      },
+      {
+        "title": "Competition",
+        "description": "TRON faces stiff competition from other Layer 1 blockchains. These competitors are constantly innovating and developing new features, which could challenge TRON's market position."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 88.24044012,
+    "earning": 89.21328539,
+    "fairValue": 93.07692308,
+    "safety": 87.49,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 88.24044012,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 89.21328539,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 93.07692308,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 87.49,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The TRON whitepaper outlines a vision for a decentralized internet where content creators are directly rewarded for their work. The core idea is to eliminate intermediaries like YouTube or Spotify, allowing creators to connect directly with their audience and receive TRX tokens as payment. The innovation lies in its high-throughput blockchain designed to handle a large volume of transactions, making it suitable for content sharing and other applications. TRX is used to pay creators, reward users, and participate in network governance. The whitepaper addresses the problem of centralized control over digital content and the unfair distribution of revenue, proposing a fairer and more transparent ecosystem where creators are empowered. TRON aims to be the foundation for a new era of decentralized entertainment and content creation.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare TRON's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show TRON's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}

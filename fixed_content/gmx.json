@@ -1,0 +1,127 @@
+{
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "GMX",
+  "title": "GMX Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/gmx-gmx-logo.svg",
+  "description": "GMX is a cryptocurrency project in the GMX is best known for making crypto trading more a...",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "GMX helps people trade crypto without needing a traditional exchange. It generates value by charging small fees on these trades. These fees are then shared with people who provide the funds that make the trading possible, and with those who hold the GMX token, rewarding them for supporting the platform. This creates a win-win situation for traders, liquidity providers, and GMX token holders.",
+      "title": "Value Generation",
+      "heading": "How GMX Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "GMX is best known for making crypto trading more accessible and decentralized. Instead of relying on a central company, GMX uses a pool of funds provided by its users to facilitate trades. This means you can trade directly with the platform, rather than needing someone else to take the other side of your trade. This innovation allows for faster and potentially cheaper trading experiences.",
+      "title": "Market Position",
+      "heading": "What is GMX Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "GMX is a significant player in the decentralized finance (DeFi) world. It's a popular platform for trading crypto derivatives, meaning contracts that derive their value from the price of other assets. While its market rank fluctuates, it consistently attracts a large number of users and a substantial amount of trading volume, making it an important project to watch in the crypto space.",
+      "title": "Project Size",
+      "heading": "How Significant is GMX in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$0.16 billion",
+        "tradingVolume": "$7.09 million (24h)",
+        "circulatingSupply": "10.09 million GMX",
+        "totalSupply": "10.09 million GMX"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "GMX is used globally by individuals looking to trade crypto derivatives in a decentralized way. It's particularly popular in regions where access to traditional financial services is limited or where users prefer the transparency and control offered by DeFi. By providing an alternative to centralized exchanges, GMX empowers individuals to participate in the crypto market on their own terms.",
+      "title": "Real World Impact",
+      "heading": "Where Does GMX Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "The founders of GMX are pseudonymous, meaning their real identities are not publicly known. The project launched in 2021, building upon earlier decentralized exchange concepts. While the specific backgrounds of the founders are unclear, their focus has been on creating a user-friendly and efficient platform for decentralized trading.",
+      "title": "Founders",
+      "heading": "Who Created GMX",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "GMX solves the problem of centralized control and potential manipulation in traditional crypto exchanges. Centralized exchanges can freeze accounts, censor trades, and are vulnerable to hacks. GMX offers a decentralized alternative where users have more control over their funds and trades, reducing the risk of these issues. This is important because it promotes a more open and fair financial system.",
+      "title": "Problem Solving",
+      "heading": "What challenges does GMX solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Decentralized Trading",
+        "description": "GMX allows users to trade crypto derivatives directly from their wallets, without relying on a central authority. This increases security and reduces the risk of censorship."
+      },
+      {
+        "title": "User-Friendly Interface",
+        "description": "Despite being a complex platform, GMX has a relatively simple and intuitive interface. This makes it easier for new users to get started with decentralized trading."
+      },
+      {
+        "title": "Fee Sharing",
+        "description": "GMX shares trading fees with GMX token holders and liquidity providers. This incentivizes participation and creates a strong community around the platform."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Smart Contract Risk",
+        "description": "Like all DeFi projects, GMX is vulnerable to potential bugs or exploits in its smart contracts. A successful attack could result in loss of funds for users."
+      },
+      {
+        "title": "Regulatory Uncertainty",
+        "description": "The regulatory landscape for DeFi is still evolving, and GMX could face challenges from regulators in the future. This could impact its ability to operate in certain jurisdictions."
+      },
+      {
+        "title": "Complexity",
+        "description": "While user-friendly compared to some DeFi platforms, GMX can still be complex for beginners. Understanding the risks and mechanics of decentralized trading requires some learning."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 95.64567206,
+    "earning": 50.31912787,
+    "fairValue": 75.34722222,
+    "safety": 91.92,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 95.64567206,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 50.31912787,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 75.34722222,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 91.92,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The GMX whitepaper outlines a vision for a decentralized perpetual exchange that offers low fees and minimal price impact. The core innovation is the use of a multi-asset pool (GLP) to facilitate trading, allowing users to trade directly against the pool rather than against other traders. The GMX token is used for governance and to reward holders with a portion of the platform's fees. The whitepaper addresses the problem of high fees and slippage on centralized exchanges by providing a decentralized alternative that is more efficient and accessible. By leveraging blockchain technology, GMX aims to create a more transparent and equitable trading environment for everyone. The GLP pool is crucial as it provides liquidity for traders, and the fees generated from trading are distributed to GLP and GMX holders, incentivizing participation and long-term growth of the platform.",
+    "lastUpdated": "2025-04-20",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare GMX's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show GMX's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+}
