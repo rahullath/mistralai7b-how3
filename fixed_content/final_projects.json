@@ -1016,6 +1016,133 @@
     "description": "These scores compare Virtuals' growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show Virtuals' percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
   }
 },
+    "ton": {
+  "id": "placeholder-project-id",
+  "coinId": "placeholder-coin-id",
+  "name": "TON The Open Network",
+  "title": "TON - The Open Network Analysis for how3.io",
+  "logo": "https://cryptologos.cc/logos/toncoin-ton-logo.svg",
+  "description": "The Open Network is a high-performance blockchain designed for mass adoption with lightning-fast transactions and low fees, originally conceived by Telegram's founders.",
+  "assetOverview": {
+    "valueGeneration": {
+      "description": "The Open Network generates value by providing an ultra-fast and low-cost blockchain infrastructure for applications, payments, and services. TON validators earn rewards for securing the network while TON coins are used for transaction fees and staking. As adoption increases across the ecosystem's various components (storage, DNS, payments), more utility flows to the native TON coin.",
+      "title": "Value Generation",
+      "heading": "How TON Generates Value",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "marketPosition": {
+      "description": "The Open Network is known for its highly scalable architecture designed to handle millions of transactions per second. Its main innovation is a multi-blockchain design with automatic sharding that adjusts as network demand grows. Originally conceived by Telegram's founders, TON benefits from a connection to the Telegram messaging app and its massive user base, creating potential for mainstream crypto adoption.",
+      "title": "Market Position",
+      "heading": "What is TON Best Known For",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "projectSize": {
+      "description": "The Open Network has established itself as a major blockchain ecosystem, ranked among the top 20 cryptocurrencies by market capitalization. Its integration with Telegram, which has hundreds of millions of users worldwide, gives TON significant reach potential. The network's infrastructure supports a growing ecosystem of applications, wallets, and services that contribute to its importance in the broader crypto space.",
+      "title": "Project Size",
+      "heading": "How Significant is TON in the Crypto Space",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly",
+      "keyStats": {
+        "marketCap": "$7.36 billion",
+        "tradingVolume": "$127.15 million (24h)",
+        "circulatingSupply": "2.51 billion TON",
+        "totalSupply": "5.12 billion TON"
+      }
+    },
+    "RealWorldImpact": {
+      "description": "The Open Network has global reach through its connection to Telegram's worldwide user base, particularly strong in Eastern Europe, Asia, and the Middle East. The Telegram mini-app ecosystem built on TON enables direct crypto interactions for millions of users in a familiar interface. This accessibility helps bring cryptocurrency functionality to regular users who might otherwise not engage with blockchain technology.",
+      "title": "Real World Impact",
+      "heading": "Where Does TON Have Influence",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "projectNarrative": {
+    "founders": {
+      "description": "The Open Network was initially designed by Nikolai and Pavel Durov, the brothers who founded Telegram. After Telegram faced regulatory issues with the SEC, the project became open source and was further developed by a decentralized community. The TON Foundation now supports network development, while remaining independent from Telegram, though the messaging app has since embraced TON by integrating crypto features for its users.",
+      "title": "Founders",
+      "heading": "Who Created TON",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    },
+    "problemSolving": {
+      "description": "TON solves the blockchain scalability problem by using a unique multi-blockchain architecture with automatic sharding. This allows it to process millions of transactions per second with minimal fees, addressing limitations that prevent blockchains from supporting mass adoption. Additionally, TON's integration with Telegram solves the user experience gap that often prevents mainstream users from engaging with cryptocurrency.",
+      "title": "Problem Solving",
+      "heading": "What challenges does TON solve?",
+      "readTime": 3,
+      "dificultyTag": "Beginner friendly"
+    }
+  },
+  "researchAnalysis": {
+    "strengths": [
+      {
+        "title": "Telegram Integration",
+        "description": "TON's connection to Telegram gives it access to hundreds of millions of potential users. This built-in distribution channel provides a significant advantage for adoption compared to other blockchains starting from zero."
+      },
+      {
+        "title": "Technical Architecture",
+        "description": "The multi-blockchain design with automatic sharding allows for exceptional scalability. This infrastructure can theoretically handle millions of transactions per second, making it suitable for global-scale applications."
+      },
+      {
+        "title": "Complete Ecosystem",
+        "description": "TON includes not just a blockchain but a comprehensive suite of services including storage, DNS, and payments. This integrated approach creates a full-featured platform rather than just a single-purpose blockchain."
+      }
+    ],
+    "weaknesses": [
+      {
+        "title": "Regulatory History",
+        "description": "TON's complex origins, including the SEC action against Telegram's initial coin offering, create some regulatory uncertainty. This history might affect institutional adoption in certain regions."
+      },
+      {
+        "title": "Competition from Layer 1 Blockchains",
+        "description": "The Layer 1 blockchain space is crowded with established players like Ethereum, Solana, and others. TON must differentiate itself beyond its Telegram connection to compete effectively."
+      },
+      {
+        "title": "Developer Ecosystem Growth",
+        "description": "While growing, TON's developer ecosystem is still maturing compared to some longer-established blockchains. Attracting and retaining developer talent is crucial for long-term success."
+      }
+    ]
+  },
+  "benchmarkScores": {
+    "growth": 55.0,
+    "earning": 70.0,
+    "fairValue": 57.0,
+    "safety": 94.7,
+    "barData": [
+      {
+        "label": "User Growth",
+        "value": 55.0,
+        "color": "#4CAF50"
+      },
+      {
+        "label": "Earnings Quality",
+        "value": 70.0,
+        "color": "#2196F3"
+      },
+      {
+        "label": "Fair Value",
+        "value": 57.0,
+        "color": "#FFC107"
+      },
+      {
+        "label": "Safety Score",
+        "value": 94.7,
+        "color": "#9C27B0"
+      }
+    ]
+  },
+  "whitepaper": {
+    "summary": "The Open Network's whitepaper describes a multi-blockchain platform designed for speed, scalability, and ease of use. The core innovation is its ability to automatically split and merge blockchains (sharding) as network load changes, theoretically enabling millions of transactions per second. TON includes a complete ecosystem with storage, domain name services, and payment channels beyond just the base blockchain. The TON coin serves as the network's native currency for fees, staking, and governance. The whitepaper emphasizes how TON solves blockchain scalability limitations that prevent mass adoption, using a unique architecture that can grow with demand while maintaining security and decentralization. The document outlines a vision for a user-friendly blockchain platform that could serve mainstream users through applications like Telegram.",
+    "lastUpdated": "2025-04-22",
+    "readTime": 5,
+    "dificultyTag": "Intermediate"
+  },
+  "marketBenchmarkScores": {
+    "description": "These scores compare The Open Network's growth, revenue generation, valuation, and financial health to the overall cryptocurrency market. Higher scores indicate better performance and show The Open Network's percentile in these areas. Compare scores across different cryptocurrencies to identify more attractive investments!"
+  }
+},
     "aero": {
       "id": "placeholder-project-id",
       "coinId": "placeholder-coin-id",
